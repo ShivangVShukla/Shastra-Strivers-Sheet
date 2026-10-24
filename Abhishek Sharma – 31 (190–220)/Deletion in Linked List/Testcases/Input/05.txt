@@ -1,0 +1,103 @@
+4
+-127065567 1 9 -2
+100
+K 2
+K 0
+T
+K 3
+K 0
+T
+X 10
+X -1
+K 1
+H
+H
+T
+T
+H
+T
+K 1
+H
+K 1
+X -12
+H
+K 1
+X 0
+X -12
+H
+X -8
+T
+T
+X -9
+H
+H
+K 1
+H
+H
+K 1
+T
+K 1
+H
+H
+K 1
+X -9
+H
+X 13
+K 1
+X -13
+T
+T
+T
+X -15
+H
+H
+X 15
+T
+H
+T
+X 7
+X 17
+T
+T
+X -14
+X 1
+T
+T
+T
+H
+X 2
+H
+K 1
+H
+T
+H
+K 2
+H
+K 1
+H
+T
+H
+X -7
+K 1
+T
+X 9
+T
+K 1
+H
+X -17
+H
+T
+T
+K 2
+H
+K 1
+K 0
+H
+H
+H
+H
+K 1
+X -7
+K 0
+H
+H
