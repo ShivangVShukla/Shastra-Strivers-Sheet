@@ -1,0 +1,1 @@
+-891 -800 -105 717 239 -525 -188 574 219 null 955 -845 -303 -940 298 -533 927 -332 584 -272 581 null null 257 984 null null -620 null null null null -832 132 353 null null 634 null null null 392 -78 -232 266 -825 null null null null null null null null null -222 null -396

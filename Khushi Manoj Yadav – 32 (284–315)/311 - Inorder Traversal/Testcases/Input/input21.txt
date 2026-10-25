@@ -1,0 +1,1 @@
+100 100 -27 16 78 null 8 null null null null 87 null 100 42
