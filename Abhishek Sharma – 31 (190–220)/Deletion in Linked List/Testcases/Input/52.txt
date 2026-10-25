@@ -1,0 +1,53 @@
+0
+
+50
+X 4
+K 0
+K 1
+K 1
+X 2
+T
+H
+K 0
+T
+X 13
+K 0
+H
+H
+T
+K 1
+H
+K 1
+K 1
+X 2
+X -15
+K 1
+K 1
+T
+T
+K 1
+H
+K 2
+H
+K 1
+K 1
+H
+K 0
+H
+X -17
+K 1
+H
+K 1
+X -2
+T
+X -9
+X 1
+K 2
+K 1
+T
+K 1
+X -3
+H
+K 1
+K 0
+K 1

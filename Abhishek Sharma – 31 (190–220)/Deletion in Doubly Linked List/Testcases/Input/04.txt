@@ -1,0 +1,53 @@
+3
+-4 -4 -6
+50
+K 5
+K 4
+H
+X -14
+T
+X -4
+T
+H
+T
+K 1
+H
+K 1
+X 1
+H
+X 15
+H
+T
+T
+K 1
+T
+H
+H
+T
+X -15
+T
+T
+T
+H
+K 1
+T
+K 0
+K 1
+T
+X -18
+K 1
+K 1
+X -4
+H
+H
+H
+T
+H
+K 1
+X 3
+T
+T
+X 3
+X 19
+H
+H
