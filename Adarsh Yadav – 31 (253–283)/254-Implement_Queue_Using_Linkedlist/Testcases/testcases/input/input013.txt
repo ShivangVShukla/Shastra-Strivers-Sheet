@@ -1,0 +1,2 @@
+['LinkedListQueue', 'push', 'pop', 'push', 'pop', 'push', 'isEmpty', 'isEmpty', 'push', 'push', 'isEmpty', 'pop', 'pop', 'pop', 'push', 'isEmpty', 'pop', 'isEmpty', 'push', 'push', 'pop', 'push', 'push', 'isEmpty', 'push', 'isEmpty', 'isEmpty', 'pop', 'push', 'push', 'isEmpty', 'peek', 'pop', 'pop', 'pop', 'isEmpty', 'isEmpty', 'push', 'pop', 'pop', 'isEmpty']
+[[], [77], [], [41], [], [74], [], [], [40], [60], [], [], [], [], [75], [], [], [], [79], [81], [], [52], [70], [], [78], [], [], [], [13], [60], [], [], [], [], [], [], [], [72], [], [], []]

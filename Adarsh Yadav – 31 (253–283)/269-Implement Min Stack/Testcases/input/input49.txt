@@ -1,0 +1,438 @@
+1
+436
+push 8
+push 1
+push 0
+pop
+top
+push 6
+getMin
+getMin
+push -4
+top
+push 5
+pop
+push 0
+getMin
+pop
+push -3
+pop
+pop
+push -4
+push -9
+push 3
+pop
+getMin
+pop
+push -8
+push -2
+push 4
+push -8
+push -8
+push 5
+push 0
+push 4
+push 8
+push 8
+push 7
+getMin
+push 3
+pop
+push -2
+push 1
+push 9
+top
+push 10
+push 10
+top
+push 8
+push -3
+pop
+top
+top
+push 3
+pop
+top
+push 6
+push 9
+getMin
+getMin
+push -5
+push -1
+pop
+push -6
+getMin
+getMin
+pop
+pop
+pop
+top
+pop
+getMin
+getMin
+push 7
+top
+pop
+push -9
+pop
+push 6
+pop
+pop
+pop
+top
+push -3
+pop
+push -3
+push 5
+getMin
+pop
+pop
+push 9
+top
+top
+push 8
+push -5
+pop
+push 9
+pop
+top
+top
+push 7
+push -7
+pop
+getMin
+push 8
+push -6
+push 1
+push 8
+top
+top
+pop
+pop
+pop
+top
+getMin
+top
+pop
+top
+push 2
+push -9
+push 9
+push 4
+getMin
+push 10
+push 2
+pop
+push 9
+pop
+top
+push 3
+push 9
+getMin
+push -10
+top
+push -4
+push 8
+top
+pop
+top
+top
+push -8
+push 2
+push 0
+push -10
+push 7
+pop
+getMin
+top
+pop
+getMin
+getMin
+push 10
+pop
+getMin
+push 7
+push -2
+pop
+push -7
+push -10
+getMin
+top
+push 10
+push -3
+push -9
+getMin
+getMin
+push -9
+push -1
+push -2
+getMin
+getMin
+top
+pop
+push 5
+push -6
+pop
+getMin
+push -10
+pop
+push -5
+push 8
+push 7
+push 0
+getMin
+push 5
+push -9
+push 1
+push 1
+push 5
+push 10
+push 7
+getMin
+pop
+push -4
+pop
+pop
+push 1
+push -5
+push -2
+push -8
+push 10
+push 5
+top
+push 9
+push 3
+top
+push 8
+top
+pop
+pop
+push 8
+push -7
+push -1
+push -3
+push 4
+top
+push 1
+push -2
+push 7
+push 8
+push -1
+top
+push -4
+pop
+push -10
+push 0
+push 9
+getMin
+top
+push -10
+top
+top
+pop
+top
+push 3
+push -6
+getMin
+push 5
+getMin
+pop
+push -4
+push -3
+push -3
+push -5
+push 9
+push -2
+push 8
+getMin
+push 2
+push -4
+pop
+top
+pop
+push 2
+top
+pop
+top
+getMin
+pop
+top
+push 5
+push -2
+push 6
+pop
+push -7
+getMin
+push -1
+top
+top
+push 8
+push -4
+push 6
+getMin
+pop
+push 9
+pop
+pop
+top
+pop
+push 3
+push 5
+pop
+pop
+pop
+push 3
+push -10
+pop
+push 2
+push -1
+push 10
+pop
+getMin
+getMin
+push 3
+push -1
+pop
+pop
+push 2
+getMin
+top
+push -10
+push -1
+push -8
+pop
+getMin
+pop
+push 4
+pop
+getMin
+getMin
+push 0
+top
+pop
+push 3
+getMin
+push 6
+getMin
+push -7
+pop
+pop
+top
+getMin
+pop
+pop
+push 6
+pop
+top
+push 5
+push 3
+push -5
+push -4
+push -8
+push -3
+top
+push -1
+push 7
+push -4
+push 7
+top
+top
+getMin
+push -4
+top
+pop
+push 5
+push 4
+push -8
+push 6
+top
+pop
+pop
+getMin
+getMin
+push 2
+push -1
+pop
+pop
+push -6
+top
+top
+push 9
+pop
+push -10
+pop
+getMin
+push -10
+pop
+pop
+push 7
+getMin
+top
+push -3
+push 4
+push 2
+getMin
+pop
+push 8
+top
+top
+top
+push -10
+push 10
+push 5
+getMin
+pop
+push 7
+top
+getMin
+push -5
+getMin
+pop
+getMin
+getMin
+push -9
+push -1
+top
+push -4
+pop
+push 3
+getMin
+getMin
+push -9
+push -3
+push 6
+top
+pop
+pop
+push -4
+top
+push 6
+push -4
+top
+top
+getMin
+top
+pop
+push 9
+getMin
+push 5
+getMin
+push -5
+pop
+push 5
+top
+push -2
+top
+getMin
+push -4
+top
+top
+push 2
+push 0
+pop
+push 3
+push -5
+push -9
+top
+push -1
+getMin

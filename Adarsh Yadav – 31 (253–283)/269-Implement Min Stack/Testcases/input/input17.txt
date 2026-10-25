@@ -1,0 +1,20 @@
+1
+18
+push 100000
+pop
+push 100000
+pop
+push 100000
+getMin
+pop
+push 100000
+push 99999
+push 99998
+pop
+push 99998
+top
+pop
+push 99998
+pop
+pop
+push 99999

@@ -1,0 +1,17 @@
+1
+15
+push 7
+push -7
+pop
+getMin
+pop
+push 7
+push -7
+top
+top
+pop
+pop
+push 7
+push -7
+getMin
+getMin

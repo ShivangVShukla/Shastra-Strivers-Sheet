@@ -1,0 +1,34 @@
+1
+32
+push -2976
+pop
+push -37099
+push -48940
+getMin
+push 36170
+pop
+push -39100
+push -58341
+pop
+push -69148
+getMin
+push 7283
+getMin
+getMin
+getMin
+top
+pop
+getMin
+push 61323
+push 95894
+push -6314
+push 37932
+push 58768
+push 78602
+push -15901
+getMin
+pop
+getMin
+pop
+top
+push 12794

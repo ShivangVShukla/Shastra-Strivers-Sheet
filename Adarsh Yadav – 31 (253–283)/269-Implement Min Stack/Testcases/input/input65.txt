@@ -1,0 +1,342 @@
+1
+340
+push -50
+getMin
+getMin
+pop
+push -50
+push -49
+push -48
+top
+push -47
+pop
+getMin
+push -47
+push -46
+top
+top
+top
+getMin
+push -45
+top
+top
+getMin
+push -44
+top
+pop
+getMin
+push -44
+pop
+push -44
+pop
+push -44
+push -43
+push -42
+push -41
+getMin
+getMin
+getMin
+getMin
+push -40
+top
+push -39
+push -38
+top
+getMin
+pop
+pop
+push -39
+push -38
+push -37
+top
+push -36
+top
+push -35
+push -34
+push -33
+push -32
+pop
+getMin
+push -32
+push -31
+push -30
+push -29
+getMin
+push -28
+push -27
+pop
+top
+top
+push -27
+push -26
+push -25
+push -24
+top
+push -23
+pop
+push -23
+getMin
+push -22
+top
+top
+push -21
+push -20
+push -19
+top
+pop
+top
+pop
+push -20
+pop
+push -20
+push -19
+top
+push -18
+top
+push -17
+top
+push -16
+getMin
+top
+push -15
+getMin
+push -14
+top
+push -13
+push -12
+push -11
+push -10
+push -9
+push -8
+getMin
+push -7
+pop
+push -7
+push -6
+push -5
+push -4
+getMin
+push -3
+getMin
+push -2
+push -1
+push 0
+push 1
+pop
+getMin
+top
+push 1
+push 2
+push 3
+push 4
+pop
+getMin
+getMin
+push 4
+push 5
+top
+top
+push 6
+push 7
+push 8
+getMin
+getMin
+top
+top
+push 9
+push 10
+pop
+push 10
+pop
+pop
+top
+getMin
+push 9
+top
+push 10
+pop
+push 10
+pop
+getMin
+pop
+pop
+top
+getMin
+push 8
+getMin
+push 9
+push 10
+top
+push 11
+pop
+push 11
+push 12
+pop
+push 12
+push 13
+top
+getMin
+push 14
+top
+push 15
+top
+top
+pop
+pop
+push 14
+pop
+push 14
+push 15
+push 16
+pop
+push 16
+top
+getMin
+pop
+push 16
+top
+top
+push 17
+pop
+push 17
+push 18
+top
+top
+pop
+push 18
+getMin
+top
+push 19
+push 20
+getMin
+pop
+push 20
+top
+getMin
+push 21
+push 22
+getMin
+getMin
+push 23
+push 24
+getMin
+top
+pop
+getMin
+top
+push 24
+pop
+top
+push 24
+pop
+push 24
+push 25
+push 26
+push 27
+getMin
+getMin
+top
+pop
+top
+push 27
+getMin
+getMin
+push 28
+top
+pop
+push 28
+pop
+pop
+getMin
+push 27
+push 28
+push 29
+push 30
+push 31
+pop
+getMin
+top
+getMin
+push 31
+getMin
+top
+push 32
+push 33
+push 34
+push 35
+push 36
+push 37
+push 38
+top
+getMin
+getMin
+push 39
+getMin
+top
+push 40
+push 41
+pop
+pop
+push 40
+push 41
+push 42
+push 43
+push 44
+pop
+pop
+push 43
+push 44
+pop
+top
+pop
+getMin
+push 43
+pop
+push 43
+push 44
+pop
+push 44
+top
+top
+getMin
+top
+push 45
+top
+top
+pop
+push 45
+getMin
+push 46
+top
+pop
+getMin
+getMin
+getMin
+getMin
+getMin
+push 46
+pop
+push 46
+top
+push 47
+top
+pop
+top
+push 47
+pop
+push 47
+getMin
+push 48
+getMin
+pop
+getMin
+getMin
+top
+top
+top
+getMin
+push 48
+top
+top
+push 49
+top

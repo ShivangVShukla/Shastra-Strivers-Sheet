@@ -1,0 +1,1 @@
+[null, null, 90, true, true, true, true, null, null, 75, 75, 37, true, null, null, null, null, false, 82, null, 99, 99, false, false, 82, false, false, 82, false, 82, false, 82, 82, 82, null, 30, false, 82, 21, null, false, false, 47, null, null, 95, 19, 19, 21, false, 21, 15, 89, 89]

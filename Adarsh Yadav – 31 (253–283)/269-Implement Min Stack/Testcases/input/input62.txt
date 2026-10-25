@@ -1,0 +1,211 @@
+1
+209
+push 7
+push -7
+push 7
+push -7
+top
+push 7
+push -7
+push 7
+top
+getMin
+push -7
+getMin
+push 7
+push -7
+pop
+push -7
+push 7
+push -7
+top
+push 7
+push -7
+pop
+push -7
+pop
+top
+push -7
+top
+getMin
+pop
+push -7
+top
+top
+pop
+push -7
+push 7
+push -7
+push 7
+top
+push -7
+push 7
+push -7
+getMin
+pop
+pop
+push 7
+getMin
+push -7
+getMin
+pop
+push -7
+getMin
+pop
+top
+top
+top
+pop
+pop
+push -7
+pop
+push -7
+push 7
+pop
+push 7
+top
+pop
+push 7
+pop
+pop
+pop
+top
+pop
+top
+push -7
+pop
+getMin
+push -7
+pop
+getMin
+top
+push -7
+getMin
+push 7
+pop
+push 7
+getMin
+push -7
+pop
+push -7
+getMin
+push 7
+push -7
+push 7
+top
+pop
+push 7
+push -7
+push 7
+top
+push -7
+top
+top
+push 7
+getMin
+getMin
+push -7
+getMin
+push 7
+push -7
+top
+push 7
+push -7
+pop
+pop
+push 7
+push -7
+getMin
+top
+top
+push 7
+getMin
+push -7
+push 7
+pop
+push 7
+pop
+pop
+push -7
+getMin
+push 7
+top
+getMin
+top
+top
+push -7
+push 7
+push -7
+getMin
+getMin
+pop
+top
+push -7
+top
+pop
+pop
+getMin
+push 7
+push -7
+push 7
+top
+push -7
+getMin
+push 7
+top
+push -7
+push 7
+pop
+push 7
+pop
+push 7
+push -7
+push 7
+push -7
+push 7
+push -7
+top
+getMin
+push 7
+push -7
+getMin
+push 7
+top
+push -7
+pop
+push -7
+push 7
+push -7
+top
+pop
+push -7
+push 7
+pop
+push 7
+pop
+push 7
+push -7
+top
+pop
+pop
+top
+push 7
+push -7
+top
+push 7
+push -7
+pop
+push -7
+push 7
+push -7
+push 7
+getMin
+top
+getMin
+push -7
+getMin
+push 7
+push -7
+top
+push 7
+getMin

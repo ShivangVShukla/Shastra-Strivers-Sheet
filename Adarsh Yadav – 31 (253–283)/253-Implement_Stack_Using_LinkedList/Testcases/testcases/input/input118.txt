@@ -1,0 +1,2 @@
+['LinkedListStack', 'push', 'pop', 'isEmpty', 'push', 'pop', 'push', 'isEmpty', 'isEmpty', 'isEmpty', 'pop', 'isEmpty', 'isEmpty', 'isEmpty', 'isEmpty', 'isEmpty', 'push', 'top', 'top', 'push', 'isEmpty', 'pop', 'isEmpty', 'pop', 'isEmpty', 'isEmpty', 'push', 'push', 'push', 'pop', 'top', 'push', 'push', 'pop', 'pop', 'pop', 'push', 'pop', 'isEmpty']
+[[], [61], [], [], [13], [], [26], [], [], [], [], [], [], [], [], [], [12], [], [], [89], [], [], [], [], [], [], [81], [11], [73], [], [], [15], [1], [], [], [], [22], [], []]

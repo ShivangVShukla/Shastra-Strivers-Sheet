@@ -1,0 +1,3944 @@
+1
+3942
+push 100000
+push 99999
+pop
+push 99999
+top
+getMin
+getMin
+top
+top
+getMin
+top
+getMin
+push 99998
+pop
+top
+push 99998
+push 99997
+pop
+pop
+push 99998
+push 99997
+getMin
+top
+pop
+push 99997
+pop
+getMin
+pop
+pop
+top
+push 99999
+getMin
+top
+getMin
+push 99998
+pop
+push 99998
+getMin
+pop
+push 99998
+push 99997
+push 99996
+getMin
+pop
+getMin
+top
+push 99996
+getMin
+top
+getMin
+pop
+push 99996
+push 99995
+top
+push 99994
+top
+top
+pop
+pop
+push 99995
+pop
+top
+push 99995
+push 99994
+getMin
+push 99993
+push 99992
+top
+push 99991
+push 99990
+push 99989
+push 99988
+push 99987
+push 99986
+top
+getMin
+push 99985
+push 99984
+pop
+push 99984
+top
+push 99983
+push 99982
+push 99981
+getMin
+pop
+pop
+top
+push 99982
+pop
+push 99982
+push 99981
+push 99980
+push 99979
+top
+pop
+getMin
+push 99979
+getMin
+push 99978
+push 99977
+pop
+push 99977
+top
+top
+push 99976
+push 99975
+push 99974
+getMin
+getMin
+top
+push 99973
+push 99972
+push 99971
+pop
+push 99971
+push 99970
+pop
+getMin
+push 99970
+top
+push 99969
+push 99968
+push 99967
+pop
+push 99967
+push 99966
+getMin
+push 99965
+push 99964
+getMin
+push 99963
+push 99962
+top
+pop
+push 99962
+getMin
+push 99961
+top
+getMin
+getMin
+pop
+top
+pop
+push 99962
+pop
+push 99962
+pop
+pop
+push 99963
+pop
+push 99963
+push 99962
+top
+push 99961
+top
+getMin
+push 99960
+push 99959
+top
+getMin
+push 99958
+top
+push 99957
+pop
+top
+push 99957
+pop
+push 99957
+getMin
+push 99956
+push 99955
+push 99954
+top
+pop
+getMin
+push 99954
+pop
+top
+getMin
+push 99954
+pop
+top
+push 99954
+push 99953
+push 99952
+push 99951
+push 99950
+push 99949
+push 99948
+push 99947
+push 99946
+top
+push 99945
+top
+getMin
+getMin
+pop
+top
+pop
+push 99946
+push 99945
+push 99944
+getMin
+push 99943
+push 99942
+pop
+push 99942
+push 99941
+push 99940
+pop
+top
+pop
+pop
+push 99942
+push 99941
+top
+push 99940
+push 99939
+push 99938
+top
+pop
+pop
+top
+push 99939
+top
+pop
+pop
+getMin
+top
+top
+push 99940
+pop
+push 99940
+pop
+pop
+top
+top
+pop
+push 99942
+push 99941
+push 99940
+top
+pop
+push 99940
+pop
+push 99940
+push 99939
+push 99938
+push 99937
+push 99936
+push 99935
+pop
+pop
+pop
+push 99937
+top
+push 99936
+push 99935
+push 99934
+pop
+push 99934
+push 99933
+getMin
+top
+getMin
+getMin
+push 99932
+top
+push 99931
+top
+push 99930
+push 99929
+top
+top
+push 99928
+pop
+top
+push 99928
+pop
+pop
+top
+pop
+getMin
+getMin
+push 99930
+top
+push 99929
+push 99928
+pop
+pop
+push 99929
+getMin
+top
+push 99928
+push 99927
+push 99926
+push 99925
+getMin
+top
+pop
+top
+getMin
+push 99925
+push 99924
+pop
+push 99924
+pop
+getMin
+top
+pop
+push 99925
+push 99924
+pop
+pop
+top
+push 99925
+push 99924
+top
+push 99923
+top
+push 99922
+top
+push 99921
+push 99920
+push 99919
+push 99918
+pop
+push 99918
+push 99917
+getMin
+top
+getMin
+push 99916
+pop
+push 99916
+push 99915
+getMin
+top
+getMin
+pop
+top
+push 99915
+top
+top
+push 99914
+push 99913
+push 99912
+top
+pop
+push 99912
+getMin
+push 99911
+getMin
+push 99910
+pop
+getMin
+push 99910
+getMin
+push 99909
+pop
+push 99909
+pop
+pop
+pop
+getMin
+push 99911
+pop
+pop
+top
+push 99912
+push 99911
+getMin
+top
+push 99910
+pop
+pop
+push 99911
+push 99910
+top
+push 99909
+getMin
+push 99908
+top
+push 99907
+push 99906
+push 99905
+pop
+top
+top
+push 99905
+getMin
+push 99904
+top
+getMin
+push 99903
+push 99902
+pop
+pop
+top
+getMin
+push 99903
+push 99902
+push 99901
+top
+getMin
+push 99900
+top
+top
+push 99899
+top
+push 99898
+pop
+top
+push 99898
+push 99897
+top
+pop
+push 99897
+top
+push 99896
+push 99895
+getMin
+pop
+top
+push 99895
+pop
+push 99895
+push 99894
+push 99893
+top
+getMin
+push 99892
+push 99891
+pop
+pop
+pop
+push 99893
+pop
+push 99893
+push 99892
+pop
+push 99892
+top
+push 99891
+push 99890
+push 99889
+push 99888
+push 99887
+getMin
+push 99886
+push 99885
+getMin
+top
+pop
+top
+push 99885
+push 99884
+push 99883
+push 99882
+push 99881
+pop
+push 99881
+pop
+push 99881
+top
+push 99880
+getMin
+push 99879
+push 99878
+top
+push 99877
+pop
+top
+pop
+top
+top
+top
+push 99878
+pop
+push 99878
+pop
+top
+top
+top
+pop
+push 99879
+push 99878
+push 99877
+top
+push 99876
+push 99875
+push 99874
+getMin
+push 99873
+push 99872
+push 99871
+pop
+pop
+pop
+top
+push 99873
+push 99872
+pop
+top
+getMin
+push 99872
+pop
+push 99872
+getMin
+getMin
+push 99871
+getMin
+pop
+push 99871
+getMin
+push 99870
+push 99869
+pop
+push 99869
+push 99868
+push 99867
+getMin
+push 99866
+pop
+getMin
+push 99866
+push 99865
+top
+top
+pop
+top
+push 99865
+push 99864
+pop
+top
+getMin
+push 99864
+top
+pop
+push 99864
+top
+getMin
+push 99863
+pop
+pop
+push 99864
+push 99863
+pop
+push 99863
+pop
+pop
+push 99864
+pop
+push 99864
+pop
+push 99864
+push 99863
+pop
+getMin
+push 99863
+getMin
+push 99862
+pop
+push 99862
+pop
+pop
+getMin
+push 99863
+getMin
+push 99862
+pop
+pop
+pop
+top
+pop
+getMin
+pop
+pop
+top
+push 99867
+push 99866
+push 99865
+push 99864
+top
+push 99863
+pop
+top
+pop
+pop
+pop
+push 99866
+push 99865
+pop
+top
+pop
+push 99866
+push 99865
+push 99864
+pop
+push 99864
+getMin
+pop
+push 99864
+push 99863
+push 99862
+push 99861
+getMin
+pop
+push 99861
+top
+getMin
+top
+push 99860
+pop
+push 99860
+push 99859
+push 99858
+getMin
+push 99857
+pop
+push 99857
+pop
+pop
+top
+push 99858
+top
+pop
+top
+top
+top
+pop
+getMin
+push 99859
+push 99858
+push 99857
+push 99856
+top
+getMin
+push 99855
+push 99854
+pop
+top
+push 99854
+push 99853
+push 99852
+top
+push 99851
+pop
+top
+top
+push 99851
+push 99850
+push 99849
+push 99848
+pop
+push 99848
+push 99847
+pop
+getMin
+pop
+push 99848
+push 99847
+push 99846
+getMin
+top
+push 99845
+top
+pop
+pop
+top
+top
+push 99846
+push 99845
+push 99844
+top
+pop
+pop
+getMin
+push 99845
+top
+push 99844
+push 99843
+getMin
+push 99842
+push 99841
+push 99840
+push 99839
+push 99838
+pop
+push 99838
+push 99837
+getMin
+pop
+push 99837
+getMin
+getMin
+pop
+top
+push 99837
+top
+pop
+push 99837
+getMin
+pop
+pop
+push 99838
+push 99837
+top
+getMin
+pop
+pop
+getMin
+top
+pop
+push 99839
+pop
+push 99839
+push 99838
+top
+push 99837
+pop
+getMin
+push 99837
+push 99836
+pop
+push 99836
+push 99835
+getMin
+push 99834
+push 99833
+push 99832
+push 99831
+push 99830
+getMin
+push 99829
+push 99828
+top
+push 99827
+top
+getMin
+pop
+pop
+push 99828
+top
+pop
+top
+top
+push 99828
+push 99827
+pop
+top
+pop
+getMin
+getMin
+push 99828
+pop
+push 99828
+push 99827
+push 99826
+getMin
+push 99825
+push 99824
+push 99823
+pop
+getMin
+pop
+push 99824
+pop
+top
+push 99824
+push 99823
+pop
+getMin
+getMin
+push 99823
+top
+push 99822
+getMin
+push 99821
+pop
+getMin
+top
+push 99821
+pop
+pop
+push 99822
+pop
+push 99822
+top
+pop
+push 99822
+push 99821
+top
+push 99820
+push 99819
+pop
+getMin
+push 99819
+pop
+getMin
+push 99819
+getMin
+push 99818
+push 99817
+push 99816
+push 99815
+top
+pop
+push 99815
+pop
+push 99815
+top
+top
+push 99814
+top
+push 99813
+push 99812
+pop
+push 99812
+push 99811
+push 99810
+push 99809
+push 99808
+top
+top
+top
+pop
+push 99808
+getMin
+push 99807
+push 99806
+push 99805
+getMin
+push 99804
+push 99803
+pop
+getMin
+pop
+top
+top
+top
+push 99804
+getMin
+push 99803
+push 99802
+getMin
+push 99801
+pop
+getMin
+top
+top
+pop
+push 99802
+push 99801
+push 99800
+getMin
+getMin
+push 99799
+push 99798
+push 99797
+pop
+pop
+push 99798
+pop
+push 99798
+push 99797
+push 99796
+top
+pop
+push 99796
+pop
+getMin
+push 99796
+pop
+push 99796
+pop
+push 99796
+top
+top
+push 99795
+getMin
+pop
+push 99795
+pop
+pop
+push 99796
+top
+pop
+push 99796
+pop
+push 99796
+push 99795
+push 99794
+push 99793
+push 99792
+push 99791
+top
+push 99790
+getMin
+push 99789
+push 99788
+push 99787
+pop
+push 99787
+push 99786
+getMin
+push 99785
+pop
+pop
+pop
+top
+push 99787
+top
+top
+pop
+push 99787
+getMin
+top
+getMin
+pop
+push 99787
+push 99786
+push 99785
+pop
+pop
+getMin
+top
+push 99786
+push 99785
+push 99784
+top
+pop
+push 99784
+push 99783
+push 99782
+pop
+top
+pop
+getMin
+getMin
+push 99783
+getMin
+push 99782
+pop
+push 99782
+pop
+push 99782
+push 99781
+push 99780
+pop
+pop
+getMin
+pop
+push 99782
+getMin
+top
+pop
+getMin
+pop
+push 99783
+push 99782
+getMin
+getMin
+push 99781
+push 99780
+pop
+getMin
+push 99780
+push 99779
+pop
+getMin
+push 99779
+pop
+top
+getMin
+pop
+push 99780
+push 99779
+push 99778
+push 99777
+push 99776
+push 99775
+pop
+pop
+getMin
+top
+pop
+push 99777
+top
+top
+pop
+getMin
+top
+push 99777
+push 99776
+top
+push 99775
+push 99774
+push 99773
+push 99772
+getMin
+getMin
+pop
+getMin
+push 99772
+top
+pop
+push 99772
+getMin
+push 99771
+pop
+push 99771
+getMin
+getMin
+pop
+getMin
+pop
+push 99772
+push 99771
+getMin
+top
+push 99770
+top
+push 99769
+top
+pop
+getMin
+push 99769
+getMin
+push 99768
+push 99767
+pop
+push 99767
+top
+top
+push 99766
+push 99765
+push 99764
+pop
+pop
+push 99765
+push 99764
+push 99763
+pop
+pop
+pop
+pop
+getMin
+getMin
+pop
+pop
+pop
+top
+push 99769
+top
+getMin
+getMin
+pop
+pop
+push 99770
+pop
+push 99770
+push 99769
+push 99768
+push 99767
+top
+top
+push 99766
+getMin
+push 99765
+getMin
+pop
+push 99765
+push 99764
+getMin
+getMin
+getMin
+getMin
+pop
+getMin
+pop
+push 99765
+push 99764
+pop
+getMin
+push 99764
+push 99763
+pop
+push 99763
+push 99762
+top
+push 99761
+push 99760
+getMin
+push 99759
+push 99758
+getMin
+getMin
+push 99757
+push 99756
+push 99755
+top
+push 99754
+getMin
+push 99753
+top
+getMin
+push 99752
+pop
+pop
+push 99753
+getMin
+getMin
+push 99752
+push 99751
+push 99750
+top
+push 99749
+top
+top
+push 99748
+push 99747
+top
+push 99746
+push 99745
+push 99744
+top
+push 99743
+push 99742
+push 99741
+push 99740
+pop
+push 99740
+top
+getMin
+getMin
+pop
+getMin
+push 99740
+push 99739
+pop
+getMin
+top
+push 99739
+push 99738
+push 99737
+pop
+push 99737
+pop
+push 99737
+pop
+push 99737
+push 99736
+getMin
+push 99735
+push 99734
+push 99733
+getMin
+push 99732
+pop
+push 99732
+pop
+push 99732
+pop
+pop
+pop
+push 99734
+top
+top
+getMin
+top
+push 99733
+top
+pop
+push 99733
+push 99732
+push 99731
+push 99730
+push 99729
+push 99728
+top
+push 99727
+top
+push 99726
+push 99725
+top
+top
+top
+push 99724
+push 99723
+push 99722
+getMin
+push 99721
+top
+top
+pop
+getMin
+push 99721
+pop
+getMin
+pop
+pop
+pop
+push 99724
+top
+top
+push 99723
+getMin
+pop
+push 99723
+push 99722
+pop
+getMin
+push 99722
+push 99721
+pop
+push 99721
+pop
+push 99721
+pop
+getMin
+getMin
+push 99721
+push 99720
+top
+push 99719
+push 99718
+top
+top
+pop
+push 99718
+top
+push 99717
+pop
+push 99717
+getMin
+push 99716
+top
+pop
+push 99716
+push 99715
+push 99714
+push 99713
+getMin
+getMin
+push 99712
+push 99711
+push 99710
+getMin
+getMin
+push 99709
+pop
+push 99709
+pop
+pop
+push 99710
+pop
+push 99710
+push 99709
+push 99708
+getMin
+push 99707
+getMin
+top
+top
+push 99706
+push 99705
+push 99704
+push 99703
+push 99702
+getMin
+push 99701
+getMin
+push 99700
+push 99699
+push 99698
+pop
+push 99698
+push 99697
+top
+push 99696
+push 99695
+getMin
+push 99694
+getMin
+push 99693
+push 99692
+push 99691
+push 99690
+getMin
+push 99689
+push 99688
+pop
+push 99688
+push 99687
+top
+push 99686
+push 99685
+push 99684
+top
+push 99683
+push 99682
+top
+push 99681
+pop
+push 99681
+top
+getMin
+pop
+push 99681
+pop
+push 99681
+push 99680
+push 99679
+push 99678
+push 99677
+push 99676
+top
+push 99675
+push 99674
+pop
+pop
+pop
+push 99676
+top
+getMin
+push 99675
+push 99674
+getMin
+getMin
+top
+push 99673
+push 99672
+push 99671
+push 99670
+pop
+getMin
+pop
+push 99671
+push 99670
+getMin
+push 99669
+pop
+top
+getMin
+push 99669
+push 99668
+push 99667
+pop
+push 99667
+pop
+top
+push 99667
+top
+push 99666
+pop
+getMin
+getMin
+top
+top
+getMin
+pop
+top
+push 99667
+push 99666
+pop
+push 99666
+pop
+push 99666
+push 99665
+push 99664
+push 99663
+pop
+push 99663
+getMin
+push 99662
+top
+push 99661
+top
+push 99660
+pop
+getMin
+push 99660
+pop
+pop
+push 99661
+pop
+push 99661
+pop
+push 99661
+push 99660
+push 99659
+push 99658
+push 99657
+push 99656
+push 99655
+top
+top
+push 99654
+push 99653
+push 99652
+pop
+pop
+push 99653
+pop
+push 99653
+push 99652
+top
+top
+top
+top
+push 99651
+pop
+top
+push 99651
+push 99650
+push 99649
+push 99648
+pop
+getMin
+top
+pop
+getMin
+push 99649
+getMin
+push 99648
+push 99647
+push 99646
+push 99645
+pop
+push 99645
+push 99644
+pop
+getMin
+getMin
+push 99644
+push 99643
+push 99642
+pop
+getMin
+getMin
+getMin
+push 99642
+push 99641
+top
+pop
+pop
+getMin
+top
+pop
+push 99643
+push 99642
+getMin
+pop
+push 99642
+push 99641
+push 99640
+top
+push 99639
+pop
+getMin
+push 99639
+getMin
+getMin
+push 99638
+getMin
+push 99637
+pop
+pop
+top
+pop
+push 99639
+getMin
+getMin
+top
+push 99638
+pop
+pop
+push 99639
+push 99638
+push 99637
+pop
+pop
+push 99638
+push 99637
+getMin
+pop
+push 99637
+push 99636
+top
+push 99635
+push 99634
+pop
+push 99634
+pop
+pop
+pop
+push 99636
+top
+push 99635
+push 99634
+push 99633
+push 99632
+getMin
+push 99631
+top
+push 99630
+pop
+push 99630
+top
+push 99629
+push 99628
+push 99627
+push 99626
+pop
+push 99626
+getMin
+getMin
+push 99625
+pop
+push 99625
+push 99624
+pop
+pop
+push 99625
+pop
+push 99625
+push 99624
+push 99623
+push 99622
+push 99621
+pop
+getMin
+push 99621
+push 99620
+top
+pop
+push 99620
+push 99619
+getMin
+pop
+push 99619
+push 99618
+top
+top
+top
+pop
+getMin
+push 99618
+push 99617
+push 99616
+pop
+getMin
+getMin
+top
+push 99616
+getMin
+push 99615
+push 99614
+pop
+push 99614
+push 99613
+push 99612
+push 99611
+getMin
+push 99610
+push 99609
+getMin
+top
+push 99608
+push 99607
+getMin
+getMin
+push 99606
+push 99605
+push 99604
+push 99603
+push 99602
+push 99601
+push 99600
+top
+push 99599
+push 99598
+push 99597
+push 99596
+getMin
+pop
+push 99596
+getMin
+getMin
+push 99595
+push 99594
+getMin
+push 99593
+top
+getMin
+pop
+push 99593
+pop
+push 99593
+getMin
+push 99592
+push 99591
+pop
+pop
+pop
+getMin
+push 99593
+pop
+pop
+getMin
+top
+push 99594
+pop
+getMin
+pop
+pop
+pop
+pop
+push 99598
+push 99597
+pop
+push 99597
+push 99596
+pop
+getMin
+pop
+push 99597
+top
+push 99596
+pop
+getMin
+push 99596
+getMin
+getMin
+top
+push 99595
+push 99594
+push 99593
+getMin
+pop
+push 99593
+getMin
+push 99592
+push 99591
+pop
+push 99591
+push 99590
+top
+pop
+push 99590
+push 99589
+pop
+pop
+getMin
+getMin
+push 99590
+top
+getMin
+getMin
+push 99589
+push 99588
+getMin
+top
+push 99587
+push 99586
+push 99585
+push 99584
+pop
+top
+getMin
+push 99584
+top
+getMin
+getMin
+push 99583
+push 99582
+push 99581
+getMin
+push 99580
+top
+push 99579
+getMin
+getMin
+getMin
+push 99578
+push 99577
+push 99576
+getMin
+push 99575
+top
+pop
+getMin
+pop
+push 99576
+getMin
+top
+top
+top
+push 99575
+push 99574
+pop
+push 99574
+getMin
+top
+top
+pop
+getMin
+getMin
+push 99574
+push 99573
+pop
+push 99573
+pop
+getMin
+push 99573
+getMin
+top
+push 99572
+push 99571
+push 99570
+push 99569
+pop
+getMin
+getMin
+push 99569
+pop
+pop
+pop
+push 99571
+top
+pop
+push 99571
+pop
+getMin
+push 99571
+push 99570
+push 99569
+push 99568
+push 99567
+pop
+pop
+pop
+top
+top
+top
+getMin
+push 99569
+pop
+push 99569
+push 99568
+push 99567
+push 99566
+push 99565
+push 99564
+push 99563
+push 99562
+push 99561
+push 99560
+pop
+pop
+push 99561
+pop
+getMin
+top
+push 99561
+pop
+pop
+push 99562
+push 99561
+push 99560
+push 99559
+top
+pop
+push 99559
+push 99558
+pop
+push 99558
+top
+top
+push 99557
+pop
+push 99557
+push 99556
+pop
+getMin
+push 99556
+getMin
+push 99555
+push 99554
+pop
+pop
+push 99555
+push 99554
+push 99553
+push 99552
+top
+push 99551
+push 99550
+pop
+pop
+push 99551
+push 99550
+getMin
+pop
+pop
+getMin
+getMin
+push 99551
+push 99550
+pop
+pop
+push 99551
+pop
+pop
+getMin
+push 99552
+pop
+getMin
+pop
+pop
+push 99554
+push 99553
+top
+push 99552
+push 99551
+pop
+top
+pop
+getMin
+push 99552
+pop
+getMin
+top
+push 99552
+push 99551
+push 99550
+top
+top
+pop
+push 99550
+pop
+push 99550
+push 99549
+getMin
+top
+top
+push 99548
+pop
+pop
+getMin
+push 99549
+pop
+push 99549
+getMin
+pop
+getMin
+push 99549
+push 99548
+push 99547
+push 99546
+push 99545
+push 99544
+top
+getMin
+push 99543
+push 99542
+push 99541
+push 99540
+getMin
+top
+pop
+getMin
+push 99540
+push 99539
+getMin
+push 99538
+push 99537
+pop
+push 99537
+push 99536
+push 99535
+pop
+getMin
+push 99535
+getMin
+push 99534
+push 99533
+top
+push 99532
+push 99531
+push 99530
+push 99529
+pop
+top
+push 99529
+push 99528
+top
+getMin
+pop
+push 99528
+push 99527
+pop
+push 99527
+pop
+top
+push 99527
+push 99526
+top
+top
+push 99525
+push 99524
+push 99523
+push 99522
+getMin
+pop
+top
+push 99522
+push 99521
+getMin
+getMin
+pop
+top
+pop
+pop
+pop
+getMin
+pop
+getMin
+pop
+getMin
+pop
+push 99527
+pop
+top
+push 99527
+push 99526
+push 99525
+push 99524
+pop
+top
+push 99524
+push 99523
+getMin
+push 99522
+push 99521
+pop
+push 99521
+pop
+top
+getMin
+getMin
+push 99521
+top
+push 99520
+top
+push 99519
+pop
+getMin
+pop
+push 99520
+push 99519
+getMin
+pop
+push 99519
+getMin
+push 99518
+push 99517
+push 99516
+push 99515
+push 99514
+push 99513
+top
+getMin
+push 99512
+getMin
+top
+push 99511
+push 99510
+push 99509
+getMin
+push 99508
+push 99507
+push 99506
+getMin
+getMin
+top
+getMin
+getMin
+push 99505
+top
+pop
+push 99505
+push 99504
+getMin
+top
+push 99503
+getMin
+top
+push 99502
+top
+getMin
+push 99501
+pop
+top
+pop
+getMin
+pop
+push 99503
+top
+top
+push 99502
+top
+top
+push 99501
+pop
+top
+push 99501
+push 99500
+pop
+getMin
+push 99500
+push 99499
+push 99498
+push 99497
+push 99496
+pop
+pop
+push 99497
+push 99496
+getMin
+pop
+getMin
+push 99496
+push 99495
+pop
+push 99495
+pop
+top
+getMin
+getMin
+top
+pop
+top
+pop
+top
+pop
+push 99498
+getMin
+top
+getMin
+push 99497
+pop
+getMin
+push 99497
+getMin
+top
+push 99496
+getMin
+push 99495
+push 99494
+top
+pop
+push 99494
+pop
+pop
+push 99495
+push 99494
+push 99493
+push 99492
+push 99491
+push 99490
+top
+pop
+push 99490
+push 99489
+pop
+push 99489
+push 99488
+pop
+top
+push 99488
+push 99487
+pop
+pop
+pop
+getMin
+pop
+top
+pop
+top
+pop
+pop
+push 99493
+getMin
+push 99492
+top
+pop
+pop
+push 99493
+push 99492
+getMin
+push 99491
+push 99490
+push 99489
+push 99488
+push 99487
+push 99486
+pop
+push 99486
+top
+getMin
+push 99485
+getMin
+push 99484
+pop
+push 99484
+push 99483
+push 99482
+push 99481
+getMin
+getMin
+top
+getMin
+getMin
+push 99480
+top
+push 99479
+pop
+top
+push 99479
+top
+pop
+pop
+top
+push 99480
+push 99479
+pop
+getMin
+push 99479
+getMin
+push 99478
+top
+push 99477
+top
+pop
+push 99477
+top
+push 99476
+top
+top
+pop
+push 99476
+push 99475
+push 99474
+push 99473
+pop
+pop
+pop
+push 99475
+push 99474
+push 99473
+push 99472
+getMin
+push 99471
+pop
+top
+top
+push 99471
+push 99470
+push 99469
+push 99468
+push 99467
+pop
+getMin
+pop
+push 99468
+pop
+push 99468
+top
+getMin
+getMin
+push 99467
+getMin
+getMin
+pop
+top
+getMin
+push 99467
+top
+top
+push 99466
+getMin
+push 99465
+push 99464
+push 99463
+pop
+pop
+top
+push 99464
+top
+push 99463
+push 99462
+push 99461
+pop
+getMin
+pop
+getMin
+push 99462
+push 99461
+top
+push 99460
+getMin
+pop
+push 99460
+push 99459
+getMin
+top
+push 99458
+push 99457
+pop
+pop
+pop
+top
+push 99459
+push 99458
+getMin
+getMin
+pop
+pop
+push 99459
+top
+getMin
+push 99458
+pop
+push 99458
+getMin
+push 99457
+getMin
+push 99456
+top
+push 99455
+top
+getMin
+push 99454
+push 99453
+pop
+push 99453
+top
+pop
+push 99453
+pop
+pop
+pop
+push 99455
+pop
+getMin
+push 99455
+push 99454
+getMin
+getMin
+top
+getMin
+getMin
+getMin
+push 99453
+top
+push 99452
+getMin
+getMin
+pop
+push 99452
+getMin
+pop
+push 99452
+getMin
+push 99451
+top
+top
+top
+getMin
+top
+top
+push 99450
+pop
+push 99450
+top
+top
+push 99449
+pop
+pop
+top
+getMin
+push 99450
+push 99449
+push 99448
+pop
+top
+getMin
+push 99448
+getMin
+push 99447
+getMin
+getMin
+getMin
+push 99446
+top
+push 99445
+getMin
+pop
+pop
+push 99446
+push 99445
+push 99444
+getMin
+pop
+push 99444
+push 99443
+push 99442
+pop
+top
+push 99442
+top
+pop
+pop
+pop
+push 99444
+top
+pop
+push 99444
+getMin
+getMin
+pop
+push 99444
+getMin
+push 99443
+pop
+getMin
+getMin
+getMin
+push 99443
+pop
+push 99443
+push 99442
+getMin
+push 99441
+getMin
+push 99440
+pop
+push 99440
+top
+top
+pop
+push 99440
+top
+push 99439
+push 99438
+getMin
+pop
+top
+push 99438
+push 99437
+push 99436
+push 99435
+push 99434
+push 99433
+push 99432
+getMin
+push 99431
+top
+pop
+pop
+pop
+top
+push 99433
+push 99432
+push 99431
+push 99430
+push 99429
+getMin
+getMin
+push 99428
+getMin
+push 99427
+pop
+getMin
+pop
+push 99428
+push 99427
+getMin
+push 99426
+push 99425
+getMin
+push 99424
+push 99423
+getMin
+getMin
+getMin
+pop
+pop
+push 99424
+pop
+push 99424
+push 99423
+top
+top
+push 99422
+getMin
+pop
+push 99422
+getMin
+getMin
+push 99421
+pop
+pop
+push 99422
+getMin
+push 99421
+push 99420
+push 99419
+pop
+push 99419
+top
+push 99418
+push 99417
+push 99416
+getMin
+pop
+top
+getMin
+pop
+push 99417
+push 99416
+getMin
+push 99415
+push 99414
+push 99413
+getMin
+push 99412
+push 99411
+top
+getMin
+push 99410
+push 99409
+getMin
+push 99408
+getMin
+pop
+push 99408
+pop
+push 99408
+push 99407
+pop
+pop
+push 99408
+pop
+getMin
+push 99408
+push 99407
+push 99406
+push 99405
+top
+pop
+push 99405
+push 99404
+top
+top
+push 99403
+getMin
+push 99402
+push 99401
+push 99400
+getMin
+getMin
+getMin
+push 99399
+top
+top
+push 99398
+push 99397
+pop
+getMin
+push 99397
+getMin
+getMin
+top
+push 99396
+top
+pop
+top
+getMin
+top
+push 99396
+top
+getMin
+push 99395
+push 99394
+pop
+getMin
+top
+push 99394
+push 99393
+pop
+top
+push 99393
+push 99392
+pop
+push 99392
+pop
+push 99392
+pop
+top
+push 99392
+top
+push 99391
+getMin
+push 99390
+push 99389
+top
+pop
+top
+getMin
+pop
+pop
+getMin
+pop
+getMin
+push 99392
+pop
+push 99392
+push 99391
+getMin
+getMin
+top
+pop
+pop
+push 99392
+top
+pop
+pop
+push 99393
+getMin
+push 99392
+push 99391
+pop
+top
+push 99391
+push 99390
+push 99389
+top
+top
+push 99388
+top
+push 99387
+push 99386
+push 99385
+top
+push 99384
+push 99383
+push 99382
+getMin
+top
+push 99381
+pop
+push 99381
+push 99380
+push 99379
+push 99378
+pop
+top
+push 99378
+push 99377
+getMin
+push 99376
+push 99375
+top
+push 99374
+top
+push 99373
+push 99372
+push 99371
+pop
+getMin
+pop
+top
+push 99372
+push 99371
+getMin
+push 99370
+getMin
+getMin
+pop
+push 99370
+push 99369
+pop
+push 99369
+push 99368
+pop
+top
+getMin
+push 99368
+push 99367
+top
+pop
+getMin
+getMin
+pop
+pop
+getMin
+top
+top
+pop
+top
+top
+push 99370
+top
+top
+push 99369
+pop
+pop
+push 99370
+getMin
+push 99369
+push 99368
+getMin
+push 99367
+push 99366
+getMin
+push 99365
+pop
+push 99365
+push 99364
+getMin
+push 99363
+push 99362
+pop
+pop
+top
+pop
+getMin
+push 99364
+push 99363
+pop
+push 99363
+push 99362
+push 99361
+push 99360
+pop
+getMin
+pop
+push 99361
+getMin
+push 99360
+pop
+getMin
+push 99360
+pop
+push 99360
+pop
+push 99360
+getMin
+top
+push 99359
+push 99358
+getMin
+push 99357
+push 99356
+getMin
+pop
+pop
+getMin
+push 99357
+pop
+push 99357
+getMin
+top
+push 99356
+push 99355
+push 99354
+push 99353
+push 99352
+getMin
+getMin
+push 99351
+top
+push 99350
+push 99349
+push 99348
+push 99347
+top
+push 99346
+pop
+getMin
+push 99346
+pop
+pop
+pop
+pop
+push 99349
+push 99348
+push 99347
+pop
+pop
+pop
+push 99349
+pop
+getMin
+push 99349
+pop
+pop
+getMin
+push 99350
+push 99349
+getMin
+top
+push 99348
+top
+getMin
+getMin
+push 99347
+getMin
+pop
+push 99347
+top
+push 99346
+pop
+push 99346
+push 99345
+push 99344
+top
+push 99343
+getMin
+top
+push 99342
+push 99341
+top
+top
+pop
+push 99341
+pop
+push 99341
+push 99340
+push 99339
+pop
+push 99339
+getMin
+pop
+pop
+pop
+push 99341
+top
+top
+push 99340
+push 99339
+push 99338
+getMin
+push 99337
+push 99336
+top
+push 99335
+getMin
+getMin
+getMin
+pop
+pop
+getMin
+top
+pop
+getMin
+push 99337
+pop
+push 99337
+push 99336
+push 99335
+push 99334
+top
+push 99333
+push 99332
+top
+pop
+pop
+push 99333
+push 99332
+getMin
+push 99331
+pop
+push 99331
+push 99330
+pop
+top
+pop
+getMin
+pop
+push 99332
+push 99331
+pop
+top
+pop
+pop
+getMin
+push 99333
+push 99332
+push 99331
+getMin
+push 99330
+top
+getMin
+getMin
+top
+push 99329
+push 99328
+pop
+push 99328
+getMin
+pop
+top
+push 99328
+push 99327
+push 99326
+push 99325
+push 99324
+top
+push 99323
+pop
+pop
+top
+pop
+pop
+push 99326
+pop
+push 99326
+getMin
+getMin
+top
+push 99325
+top
+push 99324
+getMin
+getMin
+push 99323
+pop
+push 99323
+pop
+push 99323
+top
+getMin
+push 99322
+push 99321
+getMin
+top
+push 99320
+push 99319
+push 99318
+top
+top
+push 99317
+pop
+top
+pop
+push 99318
+push 99317
+top
+pop
+getMin
+push 99317
+push 99316
+pop
+pop
+push 99317
+top
+getMin
+push 99316
+push 99315
+top
+getMin
+push 99314
+push 99313
+getMin
+pop
+push 99313
+pop
+push 99313
+pop
+top
+push 99313
+push 99312
+top
+push 99311
+push 99310
+push 99309
+pop
+push 99309
+top
+push 99308
+push 99307
+top
+getMin
+pop
+push 99307
+top
+push 99306
+pop
+pop
+getMin
+push 99307
+getMin
+push 99306
+top
+top
+push 99305
+top
+pop
+push 99305
+getMin
+getMin
+push 99304
+push 99303
+pop
+push 99303
+push 99302
+pop
+top
+pop
+push 99303
+push 99302
+push 99301
+pop
+push 99301
+push 99300
+pop
+getMin
+push 99300
+getMin
+pop
+pop
+push 99301
+getMin
+top
+top
+push 99300
+pop
+push 99300
+push 99299
+getMin
+push 99298
+getMin
+push 99297
+top
+push 99296
+top
+push 99295
+push 99294
+top
+top
+push 99293
+push 99292
+getMin
+getMin
+push 99291
+pop
+push 99291
+push 99290
+push 99289
+pop
+push 99289
+getMin
+push 99288
+getMin
+getMin
+push 99287
+pop
+pop
+pop
+getMin
+top
+push 99289
+push 99288
+push 99287
+top
+getMin
+getMin
+pop
+push 99287
+push 99286
+push 99285
+top
+push 99284
+push 99283
+push 99282
+pop
+top
+push 99282
+top
+top
+push 99281
+push 99280
+top
+push 99279
+push 99278
+top
+pop
+push 99278
+push 99277
+push 99276
+top
+push 99275
+push 99274
+pop
+push 99274
+push 99273
+push 99272
+top
+getMin
+getMin
+push 99271
+pop
+getMin
+top
+push 99271
+push 99270
+pop
+push 99270
+push 99269
+push 99268
+push 99267
+push 99266
+getMin
+top
+push 99265
+top
+push 99264
+getMin
+pop
+pop
+push 99265
+top
+push 99264
+top
+push 99263
+getMin
+push 99262
+push 99261
+getMin
+top
+push 99260
+getMin
+getMin
+pop
+pop
+getMin
+pop
+getMin
+push 99262
+getMin
+getMin
+push 99261
+getMin
+pop
+push 99261
+getMin
+pop
+push 99261
+getMin
+pop
+push 99261
+getMin
+pop
+getMin
+top
+top
+getMin
+pop
+getMin
+push 99262
+top
+top
+pop
+getMin
+top
+pop
+push 99263
+pop
+push 99263
+push 99262
+getMin
+pop
+push 99262
+push 99261
+push 99260
+pop
+pop
+push 99261
+pop
+push 99261
+push 99260
+top
+top
+push 99259
+pop
+getMin
+push 99259
+getMin
+getMin
+push 99258
+push 99257
+pop
+push 99257
+push 99256
+getMin
+top
+getMin
+top
+getMin
+push 99255
+push 99254
+push 99253
+top
+top
+top
+push 99252
+top
+pop
+getMin
+push 99252
+push 99251
+getMin
+push 99250
+push 99249
+push 99248
+push 99247
+push 99246
+push 99245
+top
+getMin
+pop
+pop
+pop
+push 99247
+top
+pop
+push 99247
+getMin
+push 99246
+pop
+push 99246
+push 99245
+top
+push 99244
+push 99243
+push 99242
+getMin
+pop
+push 99242
+push 99241
+pop
+push 99241
+top
+getMin
+top
+top
+push 99240
+pop
+pop
+push 99241
+top
+push 99240
+getMin
+pop
+getMin
+pop
+pop
+top
+push 99242
+top
+getMin
+top
+pop
+push 99242
+top
+pop
+top
+getMin
+top
+pop
+pop
+getMin
+top
+getMin
+push 99244
+push 99243
+push 99242
+pop
+pop
+top
+push 99243
+top
+pop
+pop
+pop
+pop
+getMin
+getMin
+getMin
+top
+push 99246
+push 99245
+push 99244
+top
+getMin
+push 99243
+pop
+push 99243
+top
+top
+push 99242
+getMin
+getMin
+push 99241
+pop
+pop
+push 99242
+push 99241
+push 99240
+push 99239
+getMin
+push 99238
+pop
+push 99238
+top
+pop
+pop
+getMin
+getMin
+push 99239
+push 99238
+push 99237
+pop
+push 99237
+push 99236
+pop
+push 99236
+getMin
+push 99235
+getMin
+push 99234
+getMin
+push 99233
+top
+getMin
+top
+pop
+pop
+push 99234
+top
+pop
+push 99234
+push 99233
+push 99232
+push 99231
+top
+push 99230
+getMin
+top
+top
+getMin
+push 99229
+push 99228
+push 99227
+pop
+push 99227
+pop
+pop
+pop
+push 99229
+pop
+getMin
+getMin
+pop
+top
+push 99230
+push 99229
+push 99228
+push 99227
+getMin
+getMin
+getMin
+pop
+push 99227
+push 99226
+push 99225
+push 99224
+top
+top
+push 99223
+getMin
+pop
+push 99223
+pop
+getMin
+push 99223
+top
+pop
+push 99223
+push 99222
+getMin
+push 99221
+push 99220
+push 99219
+top
+pop
+push 99219
+push 99218
+pop
+push 99218
+push 99217
+top
+push 99216
+top
+top
+top
+top
+getMin
+pop
+pop
+push 99217
+pop
+getMin
+getMin
+pop
+push 99218
+push 99217
+push 99216
+pop
+pop
+push 99217
+top
+push 99216
+getMin
+push 99215
+push 99214
+pop
+push 99214
+pop
+top
+getMin
+push 99214
+push 99213
+push 99212
+pop
+top
+getMin
+getMin
+pop
+pop
+push 99214
+push 99213
+push 99212
+push 99211
+pop
+push 99211
+getMin
+getMin
+getMin
+push 99210
+top
+push 99209
+getMin
+push 99208
+push 99207
+pop
+pop
+push 99208
+getMin
+push 99207
+top
+top
+top
+pop
+push 99207
+push 99206
+getMin
+push 99205
+push 99204
+push 99203
+getMin
+push 99202
+getMin
+pop
+pop
+push 99203
+pop
+push 99203
+push 99202
+getMin
+push 99201
+getMin
+pop
+push 99201
+push 99200
+top
+push 99199
+top
+top
+push 99198
+getMin
+push 99197
+push 99196
+top
+pop
+push 99196
+push 99195
+top
+pop
+getMin
+top
+top
+pop
+push 99196
+getMin
+getMin
+push 99195
+push 99194
+top
+pop
+pop
+top
+top
+top
+top
+push 99195
+pop
+push 99195
+top
+top
+push 99194
+push 99193
+push 99192
+top
+top
+push 99191
+top
+top
+push 99190
+pop
+push 99190
+push 99189
+push 99188
+getMin
+push 99187
+getMin
+pop
+getMin
+getMin
+push 99187
+getMin
+getMin
+push 99186
+push 99185
+push 99184
+pop
+pop
+push 99185
+push 99184
+pop
+push 99184
+pop
+push 99184
+push 99183
+push 99182
+push 99181
+top
+pop
+top
+pop
+push 99182
+push 99181
+pop
+push 99181
+getMin
+pop
+push 99181
+push 99180
+top
+top
+push 99179
+getMin
+getMin
+pop
+push 99179
+push 99178
+push 99177
+push 99176
+push 99175
+getMin
+top
+push 99174
+push 99173
+getMin
+push 99172
+push 99171
+push 99170
+push 99169
+pop
+push 99169
+push 99168
+push 99167
+push 99166
+getMin
+getMin
+top
+push 99165
+getMin
+push 99164
+pop
+push 99164
+push 99163
+getMin
+push 99162
+push 99161
+top
+top
+push 99160
+top
+top
+push 99159
+push 99158
+push 99157
+push 99156
+push 99155
+push 99154
+push 99153
+push 99152
+push 99151
+top
+pop
+getMin
+push 99151
+push 99150
+push 99149
+getMin
+push 99148
+push 99147
+push 99146
+push 99145
+pop
+push 99145
+push 99144
+push 99143
+push 99142
+getMin
+push 99141
+push 99140
+getMin
+top
+push 99139
+pop
+top
+push 99139
+pop
+pop
+getMin
+getMin
+pop
+getMin
+push 99141
+push 99140
+push 99139
+pop
+pop
+getMin
+push 99140
+getMin
+push 99139
+getMin
+push 99138
+push 99137
+push 99136
+push 99135
+top
+push 99134
+pop
+push 99134
+pop
+pop
+getMin
+push 99135
+pop
+push 99135
+push 99134
+pop
+push 99134
+push 99133
+push 99132
+pop
+top
+getMin
+push 99132
+push 99131
+top
+push 99130
+getMin
+getMin
+push 99129
+push 99128
+push 99127
+pop
+push 99127
+getMin
+push 99126
+pop
+push 99126
+push 99125
+pop
+top
+push 99125
+push 99124
+top
+push 99123
+getMin
+top
+push 99122
+top
+pop
+top
+pop
+pop
+push 99124
+top
+pop
+getMin
+push 99124
+pop
+top
+push 99124
+pop
+pop
+push 99125
+top
+getMin
+getMin
+top
+push 99124
+pop
+pop
+pop
+push 99126
+push 99125
+push 99124
+getMin
+pop
+pop
+getMin
+pop
+push 99126
+getMin
+getMin
+top
+push 99125
+push 99124
+getMin
+getMin
+pop
+push 99124
+push 99123
+getMin
+push 99122
+push 99121
+push 99120
+push 99119
+push 99118
+pop
+top
+top
+push 99118
+top
+push 99117
+push 99116
+pop
+push 99116
+push 99115
+push 99114
+getMin
+top
+push 99113
+top
+top
+pop
+pop
+push 99114
+push 99113
+pop
+push 99113
+pop
+pop
+pop
+push 99115
+top
+push 99114
+pop
+push 99114
+getMin
+pop
+push 99114
+push 99113
+pop
+getMin
+pop
+pop
+push 99115
+getMin
+push 99114
+push 99113
+push 99112
+top
+push 99111
+getMin
+top
+getMin
+top
+push 99110
+push 99109
+push 99108
+push 99107
+push 99106
+top
+top
+push 99105
+push 99104
+push 99103
+pop
+push 99103
+pop
+top
+getMin
+getMin
+push 99103
+getMin
+push 99102
+push 99101
+push 99100
+getMin
+push 99099
+push 99098
+pop
+push 99098
+getMin
+push 99097
+push 99096
+top
+push 99095
+push 99094
+push 99093
+push 99092
+push 99091
+pop
+pop
+top
+top
+getMin
+push 99092
+push 99091
+push 99090
+pop
+top
+getMin
+push 99090
+pop
+top
+getMin
+getMin
+top
+pop
+push 99091
+push 99090
+pop
+push 99090
+top
+getMin
+push 99089
+getMin
+push 99088
+push 99087
+getMin
+pop
+push 99087
+push 99086
+push 99085
+push 99084
+getMin
+getMin
+pop
+getMin
+top
+push 99084
+push 99083
+top
+push 99082
+pop
+top
+push 99082
+pop
+pop
+pop
+push 99084
+pop
+getMin
+top
+push 99084
+push 99083
+pop
+push 99083
+getMin
+getMin
+push 99082
+push 99081
+push 99080
+push 99079
+getMin
+top
+getMin
+push 99078
+top
+push 99077
+push 99076
+top
+getMin
+pop
+pop
+push 99077
+push 99076
+getMin
+push 99075
+pop
+push 99075
+push 99074
+pop
+getMin
+top
+getMin
+getMin
+getMin
+push 99074
+push 99073
+top
+pop
+pop
+pop
+top
+top
+pop
+getMin
+getMin
+top
+push 99076
+push 99075
+top
+push 99074
+top
+pop
+top
+top
+top
+getMin
+push 99074
+push 99073
+pop
+push 99073
+pop
+push 99073
+push 99072
+pop
+getMin
+push 99072
+push 99071
+pop
+pop
+top
+top
+pop
+getMin
+push 99073
+push 99072
+push 99071
+getMin
+push 99070
+getMin
+getMin
+top
+push 99069
+getMin
+pop
+getMin
+top
+push 99069
+push 99068
+getMin
+getMin
+top
+push 99067
+top
+push 99066
+getMin
+getMin
+top
+top
+pop
+getMin
+push 99066
+top
+push 99065
+push 99064
+push 99063
+push 99062
+push 99061
+push 99060
+push 99059
+push 99058
+push 99057
+top
+push 99056
+push 99055
+push 99054
+pop
+push 99054
+push 99053
+pop
+getMin
+push 99053
+top
+top
+push 99052
+push 99051
+pop
+push 99051
+push 99050
+push 99049
+getMin
+getMin
+push 99048
+push 99047
+top

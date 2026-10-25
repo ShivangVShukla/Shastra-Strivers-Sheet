@@ -1,0 +1,316 @@
+1
+314
+push -50
+push -49
+top
+top
+getMin
+pop
+top
+getMin
+pop
+push -50
+top
+push -49
+getMin
+push -48
+pop
+pop
+push -49
+push -48
+top
+push -47
+pop
+pop
+push -48
+getMin
+push -47
+getMin
+push -46
+top
+pop
+pop
+push -47
+getMin
+getMin
+push -46
+pop
+pop
+push -47
+getMin
+push -46
+push -45
+getMin
+push -44
+getMin
+pop
+getMin
+getMin
+getMin
+push -44
+getMin
+push -43
+top
+getMin
+pop
+pop
+pop
+push -45
+push -44
+push -43
+getMin
+push -42
+push -41
+getMin
+push -40
+top
+top
+getMin
+getMin
+pop
+push -40
+top
+push -39
+push -38
+push -37
+getMin
+getMin
+getMin
+getMin
+pop
+push -37
+push -36
+top
+push -35
+push -34
+top
+top
+getMin
+top
+pop
+push -34
+pop
+push -34
+push -33
+top
+push -32
+top
+push -31
+push -30
+push -29
+push -28
+pop
+top
+top
+getMin
+push -28
+push -27
+getMin
+pop
+push -27
+push -26
+pop
+push -26
+pop
+top
+push -26
+pop
+push -26
+push -25
+top
+pop
+push -25
+top
+push -24
+push -23
+push -22
+push -21
+getMin
+push -20
+pop
+push -20
+top
+push -19
+pop
+push -19
+pop
+push -19
+pop
+top
+pop
+push -20
+getMin
+push -19
+push -18
+push -17
+push -16
+push -15
+push -14
+top
+push -13
+top
+getMin
+push -12
+push -11
+push -10
+push -9
+push -8
+push -7
+push -6
+pop
+top
+getMin
+top
+top
+push -6
+top
+pop
+getMin
+push -6
+push -5
+push -4
+getMin
+top
+top
+getMin
+top
+getMin
+pop
+top
+push -4
+getMin
+getMin
+push -3
+top
+getMin
+push -2
+push -1
+push 0
+push 1
+getMin
+push 2
+getMin
+pop
+top
+getMin
+top
+top
+push 2
+top
+push 3
+top
+push 4
+pop
+push 4
+push 5
+push 6
+top
+top
+top
+push 7
+push 8
+getMin
+top
+getMin
+top
+push 9
+push 10
+top
+top
+getMin
+push 11
+pop
+push 11
+getMin
+top
+top
+pop
+push 11
+push 12
+push 13
+push 14
+top
+push 15
+top
+pop
+pop
+push 14
+pop
+top
+getMin
+push 14
+push 15
+getMin
+top
+push 16
+top
+getMin
+pop
+top
+push 16
+push 17
+getMin
+push 18
+push 19
+push 20
+getMin
+push 21
+pop
+top
+push 21
+top
+push 22
+push 23
+push 24
+push 25
+top
+pop
+push 25
+push 26
+push 27
+push 28
+push 29
+getMin
+push 30
+getMin
+push 31
+getMin
+top
+push 32
+push 33
+pop
+pop
+pop
+getMin
+top
+push 31
+push 32
+top
+push 33
+getMin
+pop
+push 33
+push 34
+pop
+push 34
+getMin
+push 35
+push 36
+getMin
+top
+push 37
+pop
+push 37
+getMin
+push 38
+push 39
+top
+push 40
+pop
+getMin
+push 40
+top
+push 41
+push 42
+pop
+push 42
