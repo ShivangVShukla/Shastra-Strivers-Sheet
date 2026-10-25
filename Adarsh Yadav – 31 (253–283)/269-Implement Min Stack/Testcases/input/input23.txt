@@ -1,0 +1,45 @@
+1
+43
+push -50
+push -49
+push -48
+top
+top
+push -47
+push -46
+push -45
+pop
+push -45
+push -44
+pop
+getMin
+top
+push -44
+pop
+push -44
+push -43
+push -42
+getMin
+push -41
+push -40
+top
+push -39
+push -38
+push -37
+getMin
+getMin
+push -36
+push -35
+top
+pop
+top
+push -35
+pop
+push -35
+top
+getMin
+pop
+push -35
+getMin
+push -34
+push -33

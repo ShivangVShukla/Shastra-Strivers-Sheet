@@ -1,0 +1,121 @@
+1
+119
+push 100000
+push 99999
+pop
+pop
+push 100000
+push 99999
+top
+pop
+push 99999
+getMin
+pop
+getMin
+top
+top
+getMin
+pop
+push 100000
+push 99999
+push 99998
+push 99997
+push 99996
+push 99995
+pop
+push 99995
+push 99994
+push 99993
+getMin
+push 99992
+push 99991
+pop
+pop
+getMin
+push 99992
+push 99991
+top
+push 99990
+getMin
+push 99989
+pop
+push 99989
+top
+getMin
+push 99988
+pop
+pop
+top
+pop
+push 99990
+getMin
+getMin
+push 99989
+pop
+getMin
+push 99989
+top
+top
+push 99988
+push 99987
+push 99986
+push 99985
+push 99984
+push 99983
+push 99982
+getMin
+top
+push 99981
+top
+top
+top
+top
+push 99980
+top
+push 99979
+push 99978
+push 99977
+getMin
+push 99976
+top
+push 99975
+getMin
+top
+push 99974
+top
+top
+push 99973
+push 99972
+push 99971
+top
+pop
+pop
+push 99972
+top
+push 99971
+push 99970
+top
+getMin
+push 99969
+pop
+top
+top
+push 99969
+push 99968
+push 99967
+push 99966
+top
+getMin
+getMin
+getMin
+getMin
+push 99965
+pop
+push 99965
+getMin
+push 99964
+pop
+push 99964
+pop
+pop
+pop

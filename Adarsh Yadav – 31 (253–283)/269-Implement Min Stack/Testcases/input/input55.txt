@@ -1,0 +1,741 @@
+1
+739
+push 7
+pop
+push 7
+pop
+push 7
+getMin
+getMin
+push -7
+push 7
+pop
+push 7
+push -7
+top
+pop
+getMin
+top
+push -7
+top
+push 7
+push -7
+getMin
+top
+push 7
+push -7
+push 7
+getMin
+top
+getMin
+getMin
+push -7
+getMin
+push 7
+push -7
+getMin
+push 7
+push -7
+push 7
+getMin
+push -7
+pop
+pop
+push 7
+getMin
+getMin
+getMin
+push -7
+top
+getMin
+push 7
+push -7
+push 7
+top
+pop
+pop
+top
+getMin
+push -7
+pop
+pop
+push 7
+push -7
+push 7
+push -7
+getMin
+getMin
+top
+push 7
+push -7
+top
+push 7
+top
+getMin
+getMin
+push -7
+push 7
+pop
+push 7
+getMin
+getMin
+push -7
+push 7
+push -7
+pop
+getMin
+push -7
+top
+getMin
+push 7
+getMin
+push -7
+push 7
+push -7
+push 7
+push -7
+pop
+push -7
+getMin
+pop
+push -7
+pop
+push -7
+push 7
+push -7
+push 7
+getMin
+push -7
+push 7
+top
+getMin
+pop
+getMin
+top
+push 7
+push -7
+top
+getMin
+push 7
+top
+push -7
+push 7
+push -7
+push 7
+push -7
+pop
+pop
+push 7
+push -7
+pop
+pop
+getMin
+pop
+push -7
+push 7
+getMin
+pop
+push 7
+push -7
+push 7
+push -7
+pop
+top
+push -7
+top
+push 7
+pop
+top
+top
+top
+pop
+push -7
+getMin
+getMin
+pop
+getMin
+push -7
+top
+pop
+push -7
+push 7
+top
+push -7
+pop
+pop
+pop
+top
+top
+push -7
+push 7
+push -7
+push 7
+push -7
+push 7
+pop
+pop
+pop
+top
+push 7
+pop
+push 7
+pop
+pop
+pop
+push 7
+getMin
+push -7
+push 7
+getMin
+getMin
+push -7
+push 7
+pop
+pop
+push -7
+push 7
+top
+push -7
+push 7
+pop
+push 7
+pop
+getMin
+getMin
+getMin
+push 7
+getMin
+push -7
+push 7
+push -7
+push 7
+top
+push -7
+push 7
+pop
+pop
+getMin
+top
+push -7
+push 7
+getMin
+pop
+getMin
+top
+getMin
+pop
+pop
+push 7
+push -7
+push 7
+top
+push -7
+push 7
+pop
+top
+push 7
+push -7
+pop
+top
+top
+push -7
+push 7
+push -7
+getMin
+push 7
+getMin
+push -7
+pop
+push -7
+push 7
+getMin
+pop
+push 7
+push -7
+pop
+top
+top
+pop
+push 7
+push -7
+push 7
+pop
+push 7
+push -7
+push 7
+push -7
+push 7
+push -7
+push 7
+push -7
+getMin
+top
+push 7
+push -7
+pop
+push -7
+top
+push 7
+push -7
+getMin
+push 7
+getMin
+pop
+top
+top
+push 7
+push -7
+top
+push 7
+getMin
+push -7
+pop
+push -7
+push 7
+push -7
+push 7
+push -7
+push 7
+pop
+pop
+push -7
+top
+push 7
+getMin
+pop
+push 7
+push -7
+pop
+pop
+top
+pop
+push -7
+top
+push 7
+push -7
+pop
+push -7
+push 7
+getMin
+getMin
+top
+top
+push -7
+top
+push 7
+push -7
+push 7
+getMin
+push -7
+push 7
+push -7
+getMin
+push 7
+pop
+push 7
+getMin
+getMin
+pop
+getMin
+push 7
+getMin
+push -7
+push 7
+pop
+pop
+push -7
+getMin
+push 7
+getMin
+push -7
+pop
+getMin
+push -7
+push 7
+push -7
+top
+top
+pop
+push -7
+getMin
+push 7
+getMin
+pop
+top
+top
+getMin
+push 7
+pop
+push 7
+top
+push -7
+push 7
+top
+getMin
+getMin
+getMin
+pop
+top
+top
+push 7
+push -7
+getMin
+top
+push 7
+push -7
+push 7
+push -7
+top
+push 7
+pop
+push 7
+pop
+getMin
+push 7
+top
+push -7
+push 7
+getMin
+pop
+push 7
+top
+getMin
+push -7
+top
+push 7
+push -7
+getMin
+top
+pop
+pop
+pop
+getMin
+getMin
+getMin
+pop
+pop
+top
+pop
+push 7
+getMin
+top
+top
+pop
+top
+getMin
+push 7
+pop
+push 7
+push -7
+push 7
+push -7
+push 7
+getMin
+push -7
+push 7
+top
+pop
+top
+push 7
+push -7
+getMin
+top
+pop
+push -7
+push 7
+push -7
+getMin
+push 7
+push -7
+pop
+pop
+push 7
+getMin
+pop
+push 7
+getMin
+top
+push -7
+push 7
+push -7
+getMin
+push 7
+push -7
+pop
+push -7
+pop
+top
+push -7
+pop
+push -7
+push 7
+pop
+top
+top
+push 7
+getMin
+pop
+push 7
+top
+top
+getMin
+getMin
+push -7
+push 7
+top
+top
+push -7
+push 7
+push -7
+pop
+getMin
+push -7
+push 7
+push -7
+pop
+push -7
+pop
+push -7
+push 7
+push -7
+pop
+push -7
+getMin
+pop
+push -7
+pop
+pop
+push 7
+pop
+top
+top
+getMin
+push 7
+top
+push -7
+push 7
+push -7
+getMin
+push 7
+push -7
+top
+push 7
+pop
+pop
+pop
+push 7
+pop
+pop
+pop
+pop
+push -7
+pop
+pop
+push 7
+push -7
+push 7
+getMin
+push -7
+getMin
+push 7
+getMin
+top
+push -7
+getMin
+getMin
+getMin
+pop
+push -7
+pop
+getMin
+getMin
+top
+pop
+push 7
+getMin
+push -7
+push 7
+push -7
+getMin
+push 7
+top
+getMin
+getMin
+pop
+getMin
+push 7
+top
+getMin
+pop
+top
+getMin
+push 7
+push -7
+push 7
+top
+getMin
+push -7
+push 7
+push -7
+push 7
+pop
+pop
+getMin
+getMin
+push -7
+push 7
+top
+push -7
+top
+push 7
+top
+pop
+top
+push 7
+pop
+push 7
+pop
+push 7
+getMin
+pop
+getMin
+push 7
+push -7
+push 7
+push -7
+push 7
+push -7
+top
+push 7
+push -7
+pop
+push -7
+push 7
+push -7
+push 7
+pop
+pop
+push -7
+push 7
+push -7
+getMin
+push 7
+push -7
+top
+getMin
+getMin
+push 7
+getMin
+getMin
+push -7
+getMin
+push 7
+push -7
+push 7
+top
+getMin
+push -7
+pop
+top
+top
+push -7
+push 7
+pop
+push 7
+push -7
+push 7
+push -7
+push 7
+pop
+pop
+pop
+top
+top
+top
+top
+push 7
+push -7
+pop
+top
+top
+top
+push -7
+pop
+push -7
+top
+top
+pop
+top
+push -7
+push 7
+push -7
+push 7
+top
+getMin
+push -7
+pop
+push -7
+pop
+getMin
+push -7
+push 7
+top
+push -7
+push 7
+top
+pop
+pop
+push -7
+getMin
+getMin
+top
+getMin
+top
+push 7
+push -7
+pop
+pop
+push 7
+push -7
+push 7
+getMin
+push -7
+push 7
+pop
+pop
+getMin
+pop
+pop
+top
+top
+getMin
+push -7
+push 7
+push -7
+getMin
+push 7
+pop
+pop
+push -7
+getMin
+push 7
+pop
+push 7
+getMin
+top
+push -7
+push 7
+getMin
+top
+pop
+top
+push 7
+pop
+getMin
+top
+push 7
+push -7
+getMin
+getMin
+push 7
+top

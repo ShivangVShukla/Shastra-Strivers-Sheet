@@ -1,0 +1,324 @@
+1
+322
+push 2
+top
+getMin
+getMin
+top
+pop
+push -10
+push 4
+push 4
+top
+push 3
+push 10
+getMin
+getMin
+top
+pop
+getMin
+push 9
+pop
+push 3
+pop
+push -1
+getMin
+getMin
+pop
+push -6
+top
+push 4
+pop
+push -2
+push -9
+push -9
+pop
+push -1
+pop
+push -1
+push 8
+push 0
+getMin
+pop
+getMin
+pop
+top
+push 1
+push 10
+push -9
+getMin
+push 10
+getMin
+push -4
+pop
+getMin
+top
+top
+push 5
+push 1
+pop
+top
+pop
+pop
+push -4
+getMin
+push 5
+push 1
+push -1
+top
+push 6
+getMin
+push -10
+getMin
+getMin
+push -4
+getMin
+top
+getMin
+top
+getMin
+top
+getMin
+pop
+getMin
+pop
+top
+top
+pop
+push -5
+getMin
+getMin
+push 5
+push -1
+push 8
+push 2
+push 9
+pop
+push 4
+pop
+push -10
+pop
+push -8
+push -4
+push -5
+top
+top
+top
+push 9
+top
+getMin
+push -7
+getMin
+push 5
+push -3
+push -9
+push -4
+push -8
+push -1
+push -2
+push -6
+getMin
+push 4
+getMin
+push -3
+push -7
+push 2
+push -7
+pop
+push -7
+getMin
+pop
+pop
+push 5
+push 10
+getMin
+push -2
+top
+top
+getMin
+push -5
+push -1
+top
+push 2
+getMin
+pop
+pop
+push -6
+getMin
+push 7
+top
+getMin
+getMin
+top
+getMin
+push 2
+pop
+push 1
+top
+pop
+pop
+getMin
+pop
+push 3
+getMin
+push -3
+push -8
+top
+top
+pop
+top
+getMin
+push 10
+pop
+push -7
+push -5
+getMin
+pop
+push -3
+getMin
+pop
+push 4
+getMin
+getMin
+push -6
+push -7
+top
+push 8
+push 7
+push 8
+push -1
+push 3
+top
+push 9
+top
+getMin
+push 9
+push 9
+getMin
+push 7
+pop
+top
+top
+pop
+pop
+push 8
+pop
+getMin
+push -9
+push 6
+getMin
+push -5
+pop
+push -1
+push 7
+top
+top
+push -4
+getMin
+top
+push 7
+top
+getMin
+getMin
+top
+top
+push 1
+push -1
+push -7
+push 7
+push 8
+pop
+getMin
+pop
+getMin
+pop
+push 3
+push 0
+top
+getMin
+top
+top
+getMin
+push 7
+pop
+push -2
+push -7
+top
+top
+getMin
+push 3
+push 3
+pop
+top
+push -9
+push 6
+push 0
+top
+pop
+getMin
+push 9
+push -5
+top
+pop
+push 6
+push 8
+push -2
+push 8
+pop
+getMin
+push -8
+push 10
+pop
+push 8
+push 8
+push -6
+push 7
+push -10
+push -8
+pop
+pop
+push 2
+getMin
+push -2
+pop
+pop
+pop
+push 8
+top
+push -4
+push 9
+push -10
+pop
+top
+getMin
+pop
+pop
+push 3
+push -5
+top
+getMin
+push 5
+push 7
+push -7
+push -7
+getMin
+top
+getMin
+push 9
+push 10
+push -3
+top
+pop
+push -2
+top
+getMin
+top
+push -1
+top
+push 3
+getMin
+push 10
+pop
+pop
+getMin
+top

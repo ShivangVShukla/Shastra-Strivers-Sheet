@@ -1,0 +1,2461 @@
+1
+2459
+push -7462
+getMin
+pop
+push 40539
+push -14221
+getMin
+pop
+pop
+push 61939
+pop
+push 66236
+push -77011
+push 28548
+getMin
+push 31445
+top
+push -98456
+top
+push -66618
+top
+push -26807
+push 24932
+push 29370
+getMin
+push -86547
+push 27830
+pop
+pop
+push 81137
+pop
+push 12672
+getMin
+push -22923
+pop
+getMin
+pop
+getMin
+push 61652
+getMin
+top
+top
+push -42596
+push 44807
+pop
+pop
+top
+push -99877
+push 7790
+getMin
+top
+push -44654
+push -24807
+pop
+getMin
+push -94971
+push -84582
+pop
+getMin
+push -82936
+push 17440
+top
+push -19782
+top
+pop
+pop
+push -91839
+push -20111
+push -27099
+push 57199
+push -16590
+getMin
+pop
+pop
+getMin
+push -69771
+getMin
+pop
+push 78679
+getMin
+push -29291
+push -28254
+pop
+top
+getMin
+push 78297
+push -93598
+pop
+pop
+pop
+push 62578
+top
+push 75425
+push 78114
+push 2638
+getMin
+top
+push 91048
+push 17641
+push -19463
+getMin
+push -85652
+top
+push -9589
+push 4815
+pop
+top
+pop
+push 43932
+push 94116
+push 32116
+top
+push 41914
+pop
+push 23743
+top
+push 94573
+push 25200
+pop
+top
+push -18336
+push -10664
+getMin
+push 61937
+push 72031
+pop
+getMin
+push -70981
+push 28904
+top
+top
+top
+top
+push 31555
+pop
+push -75699
+top
+push 38977
+getMin
+push -31957
+push -41716
+top
+push -8524
+top
+getMin
+pop
+top
+getMin
+push 32800
+top
+pop
+push 69386
+pop
+getMin
+pop
+pop
+top
+top
+push -47847
+top
+top
+push 14955
+getMin
+push 81933
+getMin
+pop
+top
+push -7114
+push -51328
+pop
+push -74137
+pop
+push -54921
+push -11735
+top
+push 48209
+top
+push -16928
+getMin
+push 71819
+push 53936
+getMin
+getMin
+push -72143
+push -51964
+push 28805
+getMin
+top
+push 24244
+top
+top
+push 67734
+pop
+getMin
+pop
+getMin
+push 30931
+push -72825
+pop
+pop
+top
+getMin
+push 80625
+getMin
+getMin
+pop
+push -43807
+getMin
+push -15526
+push 85918
+push -5451
+pop
+top
+getMin
+push -10133
+top
+push 35660
+pop
+pop
+push -72355
+push 95443
+pop
+getMin
+push -90782
+getMin
+push 16727
+push 82999
+push -94627
+push 25850
+push -88451
+push -31137
+top
+push 91937
+getMin
+push -44930
+pop
+push 60874
+push 87281
+push 29737
+top
+push 24636
+getMin
+getMin
+top
+getMin
+pop
+top
+getMin
+top
+getMin
+getMin
+getMin
+push -20406
+push -41872
+getMin
+getMin
+top
+push 43878
+push 26281
+push -33025
+getMin
+getMin
+getMin
+top
+push -35804
+getMin
+pop
+push 59778
+push 96031
+push -9333
+pop
+push -21763
+push 97902
+pop
+pop
+top
+top
+pop
+getMin
+getMin
+getMin
+push -16055
+pop
+pop
+pop
+top
+getMin
+push -62224
+push -68385
+pop
+push -94884
+push 92657
+getMin
+push -83284
+push -25010
+getMin
+push 89342
+top
+getMin
+getMin
+push -44724
+pop
+top
+top
+top
+push -93688
+push 12421
+top
+push 45981
+getMin
+top
+push -25272
+push 68568
+push 89757
+getMin
+push 59021
+push -2614
+getMin
+push -84412
+getMin
+push -94113
+push 30943
+getMin
+getMin
+getMin
+getMin
+pop
+push 94155
+push -29380
+top
+pop
+pop
+getMin
+pop
+getMin
+push -53059
+getMin
+getMin
+push -98090
+pop
+push 51303
+push -29539
+push -35401
+push -34402
+push -61178
+getMin
+getMin
+getMin
+push -98182
+pop
+push 20044
+top
+getMin
+top
+push 53754
+push -58114
+pop
+top
+push -21727
+pop
+push -79196
+getMin
+getMin
+push 11075
+push 73463
+push 11203
+getMin
+getMin
+push 93638
+push -15919
+pop
+top
+push 41741
+push 91578
+getMin
+top
+top
+push 16399
+push 59970
+push -89819
+pop
+getMin
+getMin
+pop
+push 90377
+push -24854
+top
+getMin
+push -72083
+top
+push -32828
+top
+top
+pop
+pop
+push 28998
+push -23307
+pop
+pop
+push -26114
+getMin
+push -73800
+getMin
+push 70094
+getMin
+push -12325
+getMin
+top
+getMin
+pop
+push -67100
+getMin
+push -89119
+top
+top
+getMin
+push 14981
+getMin
+getMin
+getMin
+top
+push -63264
+push -37464
+getMin
+pop
+push -95465
+push -99405
+push 10977
+push -71654
+push 30891
+getMin
+pop
+push 39842
+push 5652
+top
+top
+push 75683
+pop
+push 41772
+top
+push -19945
+push -98937
+top
+getMin
+getMin
+getMin
+push -50827
+getMin
+getMin
+top
+pop
+push -26106
+push 86225
+push -41204
+top
+getMin
+push 87661
+push 85779
+getMin
+pop
+pop
+push -89699
+top
+push 43513
+pop
+getMin
+push -99678
+push 31680
+pop
+pop
+push -59138
+push 26228
+pop
+top
+push -21552
+push 91272
+push -70305
+pop
+top
+push 91515
+getMin
+getMin
+push -12080
+getMin
+top
+top
+push 67507
+getMin
+push -3015
+push 92950
+top
+pop
+push 76684
+push -98955
+top
+top
+push 52803
+pop
+push -57671
+push -21315
+pop
+push 29814
+push 56290
+pop
+getMin
+push 34139
+pop
+top
+pop
+getMin
+top
+push -78707
+pop
+push -65143
+push -83555
+top
+pop
+pop
+getMin
+getMin
+push -4352
+top
+push -31356
+top
+push -14606
+push -33740
+pop
+push -83117
+getMin
+getMin
+getMin
+getMin
+getMin
+top
+push -930
+getMin
+push 35568
+push 11630
+top
+getMin
+push 12158
+pop
+push 52979
+push 63503
+pop
+pop
+push -17796
+push -11925
+push -5928
+pop
+pop
+pop
+push -50016
+pop
+top
+push 45358
+push 41162
+pop
+getMin
+pop
+getMin
+push 61078
+pop
+pop
+push 63983
+getMin
+pop
+push -72752
+top
+pop
+pop
+getMin
+push -54820
+getMin
+push -74945
+push -80940
+push 63851
+getMin
+push 24943
+getMin
+getMin
+pop
+top
+top
+top
+pop
+push -84880
+push -92315
+push 47966
+push -4212
+push -93691
+getMin
+push -93205
+pop
+getMin
+push 90545
+push -6700
+top
+push 21828
+push -96510
+push 74712
+push -21419
+top
+push -46238
+top
+top
+push -88962
+getMin
+pop
+push 89024
+push -97465
+push -44953
+push -12401
+push -24482
+push -29330
+top
+push 83182
+top
+push 99451
+push 49705
+top
+push 84563
+getMin
+getMin
+getMin
+top
+push -81198
+push -7759
+push -53648
+top
+push 53956
+pop
+getMin
+pop
+push 42798
+push 5145
+getMin
+pop
+push -71051
+pop
+getMin
+top
+pop
+getMin
+push -82602
+push -19394
+getMin
+pop
+push -26494
+top
+pop
+push -21064
+push -96314
+push -71159
+push -76780
+push -35213
+getMin
+push 92063
+push 17224
+push -34026
+getMin
+getMin
+pop
+getMin
+pop
+push 62868
+push 26243
+push 6219
+push -1137
+push 22578
+pop
+getMin
+push -11545
+push 65971
+pop
+top
+push -8688
+push -52218
+push 88154
+push -46814
+push -83727
+push -15191
+pop
+pop
+getMin
+push -71508
+pop
+top
+top
+push 7692
+push -8020
+top
+pop
+getMin
+push -26398
+push 94526
+push -6440
+pop
+top
+push 61807
+top
+push -52457
+pop
+getMin
+push -79564
+top
+push 71559
+getMin
+push 98318
+push -20865
+top
+push -22448
+push 29365
+top
+push 25675
+push 22756
+push 75839
+push 46092
+pop
+getMin
+push -23863
+pop
+getMin
+push 9877
+top
+push -13057
+top
+pop
+push -24379
+top
+pop
+push 15372
+push 18572
+getMin
+pop
+top
+pop
+top
+getMin
+pop
+push 48689
+pop
+push 64290
+getMin
+getMin
+push -14845
+push 88271
+getMin
+push 17974
+push 34579
+top
+getMin
+push -71815
+pop
+getMin
+getMin
+push 35588
+push -43023
+push 14574
+push 85072
+push -60320
+push -76969
+pop
+push -21542
+push -22159
+push 21946
+getMin
+push -87032
+push 49622
+push 12919
+pop
+push -81147
+getMin
+pop
+push -62074
+push -72329
+getMin
+top
+push 63594
+top
+push -82054
+top
+push 39602
+getMin
+getMin
+top
+push -71684
+push -74516
+pop
+pop
+push 7555
+push 67637
+push -29746
+pop
+push -87700
+push 24027
+top
+push -4497
+pop
+push -99637
+push 61923
+push -96459
+top
+push -14659
+pop
+push 50504
+push -72004
+push 96404
+pop
+top
+push -4151
+push -2553
+push 10482
+top
+pop
+getMin
+push -49145
+top
+top
+pop
+getMin
+push -94583
+getMin
+top
+top
+push -75506
+pop
+getMin
+pop
+push 6645
+pop
+push 76716
+push 62543
+push -21543
+pop
+push -18533
+getMin
+top
+pop
+pop
+push -92569
+push -11972
+push -73666
+pop
+getMin
+push 66753
+push -66621
+pop
+push 98639
+push 22491
+push 96929
+pop
+push -82356
+push -65375
+top
+pop
+push 73660
+pop
+push 99918
+top
+push -37776
+top
+push 92263
+push 79836
+push 69384
+push 20295
+pop
+push -80728
+top
+top
+push 57482
+getMin
+pop
+top
+top
+pop
+pop
+push -26405
+push 58017
+push 56385
+getMin
+push 66801
+getMin
+push 87364
+push -31564
+getMin
+push 55494
+top
+pop
+pop
+push 60937
+pop
+push -90953
+push -48591
+push -33123
+push -16768
+pop
+pop
+getMin
+push 18082
+push -75927
+push 53838
+push 76837
+push -29506
+push -11301
+top
+getMin
+push -36038
+pop
+getMin
+getMin
+push 9527
+top
+pop
+pop
+push -78366
+push 27663
+getMin
+getMin
+pop
+push -43657
+getMin
+push 18611
+pop
+getMin
+getMin
+push 91951
+push -94582
+top
+push 64947
+top
+push -9510
+push 17477
+push -16246
+pop
+getMin
+getMin
+getMin
+push -82438
+push 9449
+push -31426
+top
+pop
+pop
+top
+top
+pop
+push 8646
+push 45383
+push 16326
+push -16978
+push -45571
+pop
+getMin
+getMin
+push -22442
+getMin
+push -43422
+getMin
+getMin
+getMin
+push -15648
+pop
+pop
+pop
+push -35752
+pop
+push 2330
+getMin
+push -15578
+pop
+push -90740
+push 31004
+push 32642
+pop
+push -89078
+getMin
+push 45716
+top
+pop
+push -3438
+push 72795
+pop
+push -95417
+pop
+pop
+top
+push 41418
+top
+push 35839
+pop
+pop
+pop
+push 75210
+push 87938
+push -24727
+push -43146
+top
+getMin
+push 72543
+push -29873
+pop
+pop
+top
+top
+getMin
+top
+push 97493
+pop
+pop
+push 4512
+push 89771
+push -12932
+top
+push -74492
+push 52843
+pop
+getMin
+top
+push 80156
+pop
+push -8785
+push -82992
+push 92636
+top
+top
+push -78190
+pop
+pop
+push -84935
+push -56164
+top
+push 48727
+top
+pop
+getMin
+pop
+push -4016
+pop
+push -46437
+getMin
+top
+push 69
+push -44180
+push -14539
+push -87848
+pop
+top
+getMin
+push 34472
+push 25895
+getMin
+getMin
+pop
+getMin
+getMin
+pop
+top
+top
+top
+pop
+pop
+pop
+pop
+pop
+getMin
+push 7712
+push 75439
+getMin
+top
+top
+pop
+pop
+pop
+top
+top
+pop
+push -65246
+top
+top
+push -71532
+pop
+push -15578
+pop
+push 25963
+push -68950
+top
+push -28555
+push -73913
+push 63424
+pop
+pop
+push -56691
+pop
+pop
+push -52104
+top
+getMin
+top
+top
+push -66307
+push -27703
+pop
+top
+push 50959
+getMin
+push 214
+pop
+push -18959
+push -51620
+push 61402
+push 37259
+getMin
+push -46710
+pop
+push 45590
+pop
+pop
+push -76139
+push -22114
+push 53617
+push 89773
+push -80180
+top
+top
+push 4755
+top
+pop
+push -48964
+push 57019
+getMin
+push 93290
+push 20522
+push -24429
+push -83366
+push -2884
+pop
+pop
+push 54753
+push -13943
+push 9462
+push -41847
+getMin
+top
+getMin
+top
+pop
+top
+pop
+getMin
+pop
+push -96729
+top
+pop
+push 20199
+top
+top
+push 86657
+push 22364
+push 47024
+pop
+push -72226
+top
+push -38323
+pop
+pop
+push 98713
+push -90793
+push -50886
+pop
+pop
+push 57618
+push 40011
+getMin
+push 42093
+push -31723
+push -51537
+push 76489
+top
+push 75210
+getMin
+push 14948
+push -46924
+push 16046
+push 81233
+getMin
+push 72352
+push 79754
+top
+top
+push -39942
+top
+pop
+pop
+getMin
+top
+top
+getMin
+push 24948
+top
+push 36504
+top
+top
+pop
+top
+push -99584
+pop
+push 74761
+top
+push -4359
+push 71081
+getMin
+push 75350
+push -39538
+top
+getMin
+push 70620
+top
+pop
+push -25475
+pop
+push -13129
+push -67334
+push 31786
+top
+push 64816
+push -6531
+push -33019
+push -6252
+pop
+push 98357
+top
+getMin
+pop
+pop
+top
+push 40248
+push -10270
+push 4029
+getMin
+top
+top
+getMin
+push 7909
+top
+getMin
+top
+top
+pop
+getMin
+push 59871
+push -33609
+getMin
+pop
+push 59150
+push 38877
+push -65077
+push 34677
+pop
+push -4962
+push 40087
+top
+push 98771
+push 33282
+getMin
+top
+push -83356
+pop
+push -41964
+top
+getMin
+getMin
+pop
+push 58321
+push -27590
+pop
+top
+pop
+push -51413
+push 83201
+push -15800
+push -49278
+push -54536
+pop
+pop
+top
+top
+pop
+push 61072
+push -60774
+getMin
+getMin
+getMin
+getMin
+push 25202
+top
+push 73004
+top
+getMin
+top
+getMin
+pop
+getMin
+push 37248
+push -1805
+push 47520
+getMin
+pop
+push -3205
+push 2466
+push 56735
+push 88140
+getMin
+push -64405
+pop
+getMin
+pop
+push -21318
+getMin
+getMin
+push 76081
+pop
+push 70328
+getMin
+push 1888
+getMin
+pop
+pop
+push 83998
+getMin
+pop
+push -41206
+push -89542
+top
+pop
+push 57198
+push -10579
+top
+top
+top
+push 2752
+top
+push 59177
+push -11569
+push 93558
+pop
+pop
+getMin
+getMin
+push 46609
+pop
+push 40069
+pop
+top
+pop
+top
+push 50377
+pop
+push 40713
+push 16086
+top
+push -91582
+getMin
+push 53971
+getMin
+pop
+pop
+pop
+push -56350
+push -33904
+top
+push 51917
+top
+pop
+push 60856
+push 87649
+push -80156
+top
+pop
+getMin
+push 2967
+push -58797
+push -76278
+push -65508
+push -72767
+getMin
+pop
+push -21015
+push -39832
+push 59612
+pop
+push 85696
+push -98749
+push 65335
+getMin
+push 13120
+push -38894
+push 30241
+top
+push 95339
+push 45979
+push 98106
+push 38229
+push 64184
+pop
+push 51670
+getMin
+getMin
+push -9
+push 84743
+top
+push -80602
+top
+push -57031
+push 35106
+push 89467
+getMin
+getMin
+push 73005
+push 31936
+getMin
+pop
+getMin
+push 89748
+push 46328
+getMin
+push 37072
+push -63140
+push -28722
+push -10116
+push -66329
+top
+top
+pop
+push 61580
+push -27556
+pop
+push 32136
+top
+getMin
+push -82869
+push 83455
+pop
+pop
+push 54300
+pop
+push -93557
+top
+push -36743
+pop
+push 56810
+push 45990
+top
+pop
+push 93253
+pop
+push 8648
+getMin
+pop
+top
+push -78095
+pop
+getMin
+push 92522
+push -7382
+push 77787
+pop
+top
+push 79694
+getMin
+push 58332
+getMin
+pop
+getMin
+push -89519
+push 40818
+top
+pop
+push -47656
+push 66112
+top
+getMin
+top
+push 4432
+getMin
+push 11959
+top
+push -32908
+pop
+getMin
+push 42789
+getMin
+pop
+pop
+push -84649
+getMin
+top
+push 61298
+top
+top
+push -84487
+push 95360
+pop
+push 28546
+top
+push 52585
+push -55083
+push 47681
+push 6405
+top
+top
+top
+push 48913
+push -27496
+pop
+pop
+pop
+pop
+getMin
+push 37204
+push -4024
+pop
+push 10510
+pop
+push -23955
+pop
+pop
+getMin
+top
+push -94757
+push -93628
+top
+pop
+push 15035
+push -33378
+getMin
+push -43549
+push 31292
+getMin
+push -1114
+push -37584
+getMin
+pop
+push -40191
+pop
+top
+top
+top
+pop
+top
+push -86989
+top
+getMin
+getMin
+push 38619
+pop
+push -87580
+push 35282
+getMin
+push 27309
+getMin
+push 49033
+push -66130
+push 39765
+top
+push 2698
+push 93117
+push 67892
+push 26751
+pop
+push -12524
+top
+push -76541
+push 24655
+top
+pop
+push -46200
+pop
+getMin
+getMin
+getMin
+push 29742
+push 91624
+push 73257
+push 69764
+pop
+pop
+push -11224
+pop
+push 96778
+getMin
+pop
+getMin
+getMin
+getMin
+getMin
+pop
+pop
+top
+getMin
+push -80607
+top
+getMin
+push 7597
+push -25816
+push -24081
+pop
+push -83427
+push -62369
+top
+push 13710
+push 55771
+push -7291
+push 34222
+push -3020
+getMin
+top
+push 3757
+push -57316
+push -71583
+pop
+pop
+push 88350
+push 84988
+top
+push 72783
+push -98641
+pop
+push -12219
+getMin
+getMin
+push 45748
+push 27591
+pop
+pop
+top
+push -9259
+push 98403
+top
+top
+push -24612
+getMin
+top
+push 50630
+push -40518
+top
+top
+pop
+getMin
+pop
+top
+push -37958
+getMin
+push 76059
+top
+push 98643
+pop
+top
+push -76078
+push -55088
+getMin
+push -9182
+pop
+top
+getMin
+push 27401
+top
+push -32371
+push 45060
+push -95765
+push -87279
+push -339
+push -98936
+push 49535
+push -22857
+pop
+pop
+push 15058
+top
+top
+getMin
+getMin
+pop
+pop
+push 28285
+push 19636
+pop
+pop
+push 82668
+pop
+push -25574
+top
+push -51958
+push 21132
+top
+pop
+top
+top
+pop
+push 59085
+push 80261
+push 54580
+getMin
+pop
+push -93530
+top
+pop
+push -85385
+pop
+push 55350
+pop
+pop
+getMin
+push -79514
+push -384
+pop
+push -65130
+getMin
+push -42274
+getMin
+push 81348
+pop
+getMin
+push -65293
+pop
+pop
+pop
+top
+getMin
+getMin
+pop
+pop
+top
+push -30524
+top
+top
+pop
+getMin
+pop
+push 5334
+top
+push 89197
+push 22015
+push 48830
+push 67423
+top
+push -60392
+top
+push -31087
+push -82876
+pop
+top
+pop
+push 74816
+pop
+pop
+top
+top
+top
+push 70960
+getMin
+pop
+pop
+push 42430
+top
+push -19803
+pop
+push 92891
+top
+pop
+push 72231
+push -36518
+push -65288
+getMin
+getMin
+top
+getMin
+top
+push -77760
+getMin
+top
+pop
+push 85305
+getMin
+getMin
+pop
+getMin
+push 74561
+push 84406
+top
+push -50928
+push 43390
+push -69074
+push 34500
+pop
+top
+push 88151
+top
+getMin
+pop
+getMin
+pop
+push 99633
+getMin
+push 12336
+push 8994
+getMin
+push 14350
+top
+getMin
+push 51427
+top
+getMin
+push 2190
+getMin
+top
+pop
+top
+pop
+top
+getMin
+top
+push -80694
+push 25239
+push -93907
+top
+push -1854
+push 97762
+getMin
+push -77261
+pop
+push 36698
+push -14815
+push 9051
+pop
+push 93159
+push -66520
+push 5521
+push 28562
+push -40860
+push 30789
+pop
+push 1720
+push -72882
+push -30538
+pop
+getMin
+push -79392
+top
+pop
+pop
+push -93625
+getMin
+push -46412
+getMin
+top
+push -32329
+push -26098
+push 97262
+push 67004
+push 6927
+push 90681
+pop
+top
+getMin
+top
+top
+pop
+getMin
+push -26138
+push 77143
+pop
+getMin
+getMin
+push 33907
+top
+push -94366
+push 13542
+push 69114
+top
+push -9541
+top
+top
+getMin
+getMin
+pop
+getMin
+push -88816
+top
+pop
+top
+push 21958
+pop
+push 59119
+pop
+push 65924
+push -99739
+getMin
+pop
+push 33276
+pop
+push -77072
+push 56961
+pop
+pop
+pop
+push -44976
+top
+pop
+push -99245
+push -89244
+push -74785
+push -2647
+top
+push -85807
+push 5509
+push -10368
+push 48169
+pop
+top
+push -76532
+top
+push 74250
+push 1491
+push 55294
+push 76237
+push -95915
+push 18127
+getMin
+push -55851
+push -74673
+top
+getMin
+getMin
+top
+getMin
+push -39818
+push 23063
+push -88328
+push -85499
+pop
+pop
+pop
+push 81088
+push -38391
+push 70004
+push -16244
+pop
+getMin
+push 73621
+top
+push -26044
+push -24924
+top
+pop
+push 27957
+push -99282
+getMin
+pop
+push 7364
+getMin
+getMin
+pop
+push 50208
+top
+push 56751
+push 1728
+getMin
+push 43677
+push -21111
+pop
+pop
+top
+getMin
+getMin
+getMin
+push -24419
+top
+push 93673
+top
+pop
+top
+push -1064
+pop
+getMin
+push -62601
+getMin
+push 86523
+pop
+top
+top
+push 92959
+push 41721
+getMin
+top
+pop
+push -49294
+push 1846
+top
+getMin
+push -34664
+push -85731
+getMin
+pop
+push 96959
+push 91133
+top
+push -75597
+pop
+push -72071
+push -47812
+pop
+push 60592
+pop
+top
+top
+push 11666
+pop
+getMin
+push 62028
+top
+push 55139
+pop
+top
+push 24892
+top
+getMin
+getMin
+top
+top
+push -26496
+push -14758
+push -53493
+push 1539
+top
+top
+pop
+pop
+push -36295
+push 16401
+getMin
+top
+push -73301
+top
+getMin
+getMin
+pop
+getMin
+push -80414
+getMin
+push 34463
+getMin
+push -33986
+pop
+pop
+getMin
+push -12014
+push 72691
+pop
+top
+push 45539
+getMin
+push 65094
+pop
+top
+push 88005
+top
+pop
+top
+pop
+push -18805
+getMin
+push 95220
+pop
+push 45766
+pop
+pop
+getMin
+push -17307
+getMin
+pop
+pop
+pop
+push 12404
+pop
+push -71937
+top
+push -62065
+top
+push -46140
+pop
+getMin
+push 12733
+push -22685
+push -97612
+top
+push 47285
+push -27462
+push -62402
+push -81080
+push 33432
+getMin
+push 15448
+pop
+top
+push 88733
+push 73007
+top
+getMin
+getMin
+getMin
+pop
+getMin
+push -11360
+pop
+pop
+getMin
+pop
+pop
+getMin
+pop
+push 4107
+pop
+push 66738
+push 46566
+push 98832
+getMin
+pop
+push 16729
+getMin
+top
+push 12744
+top
+pop
+pop
+top
+push 69414
+getMin
+push -95069
+top
+push 19216
+getMin
+push 45537
+pop
+top
+push -36754
+pop
+push -71117
+push 44021
+getMin
+getMin
+top
+push -98065
+push 79833
+push 85980
+push 16311
+pop
+push 65407
+top
+pop
+top
+getMin
+pop
+push 80017
+pop
+push -71788
+top
+top
+getMin
+push -27287
+push 64968
+pop
+push 92179
+getMin
+top
+push -36164
+push 61928
+top
+top
+push 57725
+push -90051
+push 29622
+push -42985
+top
+push -37784
+top
+pop
+getMin
+push -54112
+getMin
+push -81579
+top
+pop
+top
+push -81411
+getMin
+push 96185
+top
+getMin
+push -19416
+top
+push 71222
+getMin
+push -74106
+top
+pop
+push -46239
+getMin
+top
+getMin
+push 32691
+push -9864
+top
+pop
+pop
+top
+push -49511
+push -16383
+pop
+push 23249
+push -8766
+pop
+top
+pop
+push 19784
+pop
+getMin
+top
+pop
+getMin
+push -7620
+getMin
+getMin
+top
+pop
+push -87764
+push -97374
+pop
+push -31580
+push 37551
+push -13161
+pop
+push -238
+push 6540
+getMin
+pop
+push 71576
+getMin
+getMin
+push 87736
+push 5875
+top
+getMin
+push 61184
+top
+getMin
+push -59541
+top
+getMin
+getMin
+push 50003
+pop
+pop
+top
+push 85966
+push 73337
+push 97249
+pop
+push 91819
+top
+getMin
+pop
+push -95055
+getMin
+pop
+getMin
+pop
+top
+push 96109
+push 18260
+push 33781
+pop
+top
+getMin
+pop
+push 37482
+pop
+getMin
+push -20174
+push 7974
+push -95032
+push 52901
+push -87334
+getMin
+pop
+push 48762
+top
+push 10336
+getMin
+top
+top
+getMin
+getMin
+pop
+top
+push -73511
+pop
+top
+top
+push -93227
+push 29881
+push -25301
+push 6405
+push -29079
+push -36748
+push -2510
+getMin
+push 56673
+push 7630
+top
+push -60036
+pop
+pop
+push 88449
+top
+pop
+getMin
+push 62587
+top
+top
+getMin
+pop
+push 16618
+push -43397
+pop
+top
+getMin
+pop
+pop
+push 4924
+top
+push 25004
+push 92760
+top
+pop
+push 67689
+pop
+getMin
+push 25348
+getMin
+top
+top
+top
+getMin
+getMin
+pop
+getMin
+top
+top
+pop
+push 7140
+push -75370
+top
+getMin
+top
+push -32734
+pop
+push 3046
+getMin
+getMin
+top
+getMin
+push -83912
+push 64
+getMin
+getMin
+push -50883
+pop
+push -46012
+getMin
+push 71724
+push -85534
+push -39539
+pop
+pop
+pop
+push 84163
+push -19736
+getMin
+pop
+push -23036
+getMin
+top
+push -37912
+top
+getMin
+pop
+push 46358
+push -9368
+push 1299
+getMin
+pop
+pop
+push 18082
+top
+getMin
+getMin
+push -24476
+top
+push 79776
+push 6932
+getMin
+push -72923
+pop
+getMin
+push 42298
+getMin
+push 64294
+push 86696
+push 93214
+getMin
+top
+push -84970
+push -70530
+push -73609
+push 16916
+top
+push 31659
+push 7458
+getMin
+pop
+push 47619
+getMin
+getMin
+getMin
+pop
+push -45969
+pop
+top
+getMin
+push -9038
+getMin
+pop
+push -84211
+getMin
+top
+pop
+push -43784
+pop
+push -40367
+top
+push 3814
+push -37935
+top
+push 91833
+getMin
+top
+pop
+getMin
+pop

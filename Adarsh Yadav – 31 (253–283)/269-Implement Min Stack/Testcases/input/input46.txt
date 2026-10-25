@@ -1,0 +1,705 @@
+1
+703
+push -100000
+push -100000
+pop
+getMin
+pop
+push -99999
+push -99999
+push -99999
+pop
+getMin
+push -100000
+pop
+pop
+push -99997
+push -100000
+push -100000
+push -99996
+getMin
+push -99998
+push -100000
+pop
+push -99997
+getMin
+pop
+getMin
+pop
+top
+push -100000
+pop
+top
+push -99998
+pop
+push -99996
+push -99999
+pop
+push -99999
+pop
+getMin
+top
+push -99998
+push -100000
+push -99997
+top
+getMin
+push -100000
+getMin
+push -99997
+push -99997
+getMin
+top
+push -99997
+push -99999
+push -99999
+top
+push -99998
+top
+push -99997
+top
+getMin
+pop
+push -99997
+pop
+getMin
+push -99996
+push -99998
+top
+push -99997
+push -99997
+push -99999
+pop
+pop
+push -99997
+push -99997
+push -100000
+top
+push -99999
+push -100000
+push -100000
+push -99999
+push -99996
+push -100000
+push -99997
+pop
+getMin
+push -99997
+push -99999
+push -99998
+push -99996
+getMin
+push -99996
+pop
+getMin
+push -99998
+push -99997
+pop
+pop
+push -99996
+push -99996
+getMin
+push -99998
+pop
+push -100000
+pop
+getMin
+push -99996
+push -100000
+push -99998
+push -99997
+pop
+getMin
+pop
+pop
+getMin
+top
+push -99998
+push -99996
+pop
+push -99999
+push -100000
+pop
+push -99996
+pop
+push -100000
+push -100000
+getMin
+top
+push -100000
+getMin
+getMin
+getMin
+top
+pop
+top
+top
+push -99998
+push -100000
+push -99999
+push -99997
+push -99998
+push -99999
+push -99996
+push -99998
+getMin
+push -99996
+getMin
+getMin
+push -100000
+push -99997
+getMin
+push -99998
+top
+getMin
+pop
+push -100000
+push -99997
+pop
+pop
+push -99999
+push -99997
+top
+push -99996
+push -99998
+push -99996
+top
+top
+getMin
+push -100000
+getMin
+getMin
+push -99998
+getMin
+getMin
+push -100000
+push -99996
+push -99998
+push -99997
+getMin
+push -100000
+pop
+push -99997
+push -100000
+push -99996
+pop
+getMin
+push -99998
+push -99997
+push -100000
+push -99996
+pop
+push -99997
+push -100000
+top
+push -99999
+push -99996
+top
+getMin
+push -99998
+push -99997
+push -100000
+push -99999
+getMin
+push -99998
+push -99997
+push -99998
+push -99999
+push -100000
+getMin
+push -99999
+push -100000
+push -99996
+top
+pop
+pop
+push -99996
+pop
+pop
+getMin
+push -99999
+pop
+push -99999
+push -99999
+getMin
+push -99996
+push -100000
+top
+push -99997
+getMin
+push -100000
+top
+push -99998
+push -99996
+top
+push -100000
+push -99999
+push -99997
+top
+push -99996
+pop
+pop
+pop
+push -99998
+pop
+getMin
+top
+pop
+getMin
+getMin
+top
+getMin
+getMin
+push -99998
+push -99999
+pop
+push -99997
+getMin
+pop
+push -99998
+top
+top
+getMin
+push -99999
+getMin
+push -99996
+pop
+push -99998
+pop
+push -99998
+push -99996
+push -99997
+push -100000
+pop
+pop
+push -99996
+push -100000
+pop
+pop
+getMin
+push -99997
+push -99998
+pop
+push -99997
+push -99997
+pop
+push -100000
+push -99998
+top
+pop
+top
+top
+push -99998
+push -99996
+push -100000
+push -99997
+push -99997
+getMin
+push -100000
+push -99999
+push -99999
+top
+pop
+pop
+push -99996
+top
+push -99997
+pop
+getMin
+push -99998
+push -99999
+top
+pop
+push -99998
+pop
+top
+pop
+push -99998
+push -99998
+push -100000
+push -99996
+push -100000
+push -99996
+pop
+push -100000
+pop
+push -99997
+push -99998
+push -99999
+push -99996
+push -99996
+push -100000
+getMin
+getMin
+getMin
+push -99999
+pop
+push -99999
+push -99998
+push -99999
+push -100000
+push -100000
+push -99996
+push -99999
+pop
+push -99999
+top
+pop
+pop
+push -99996
+top
+pop
+pop
+pop
+top
+top
+push -99996
+push -100000
+getMin
+push -100000
+getMin
+push -100000
+getMin
+getMin
+getMin
+top
+push -99997
+getMin
+pop
+top
+push -99997
+push -99998
+pop
+push -99997
+push -99998
+pop
+push -99996
+getMin
+push -99997
+pop
+getMin
+push -100000
+pop
+pop
+top
+pop
+getMin
+pop
+getMin
+push -99998
+push -99996
+pop
+top
+top
+pop
+push -99998
+top
+push -100000
+push -100000
+push -100000
+top
+top
+getMin
+getMin
+push -99998
+push -99999
+push -100000
+push -99999
+push -99996
+pop
+top
+top
+pop
+push -100000
+top
+top
+getMin
+top
+push -99998
+getMin
+pop
+push -99997
+pop
+top
+push -99999
+push -99996
+top
+top
+push -99996
+pop
+push -99997
+push -100000
+top
+push -99996
+getMin
+push -99997
+push -99996
+getMin
+push -99998
+push -99997
+push -99999
+pop
+pop
+top
+push -99998
+top
+top
+top
+pop
+pop
+push -99996
+getMin
+push -99997
+pop
+top
+top
+push -99998
+push -99997
+push -99998
+getMin
+push -99996
+top
+push -99996
+top
+push -99998
+getMin
+push -99996
+getMin
+pop
+top
+pop
+push -99996
+pop
+push -100000
+push -100000
+top
+pop
+top
+push -99999
+push -99997
+getMin
+push -100000
+pop
+push -99999
+getMin
+top
+getMin
+push -99997
+getMin
+top
+getMin
+pop
+getMin
+pop
+push -99998
+top
+push -99997
+push -99998
+getMin
+push -99997
+getMin
+getMin
+push -99997
+top
+top
+push -99997
+push -99999
+top
+push -99996
+pop
+pop
+push -99999
+getMin
+push -100000
+getMin
+getMin
+pop
+push -100000
+push -99998
+push -99996
+top
+push -99998
+pop
+top
+push -99998
+push -99997
+top
+push -99998
+getMin
+getMin
+pop
+push -99996
+top
+pop
+push -99997
+getMin
+push -99996
+push -99996
+push -100000
+getMin
+push -100000
+top
+getMin
+getMin
+pop
+getMin
+pop
+getMin
+push -99998
+push -100000
+push -99998
+push -99998
+getMin
+pop
+pop
+push -99998
+pop
+getMin
+pop
+push -99999
+push -99997
+top
+pop
+push -99997
+push -99999
+push -100000
+push -99998
+getMin
+push -99996
+push -99998
+push -99997
+pop
+getMin
+getMin
+push -100000
+push -100000
+top
+push -99996
+push -99997
+pop
+pop
+getMin
+top
+top
+push -99996
+push -99996
+top
+pop
+getMin
+top
+top
+push -100000
+getMin
+getMin
+push -100000
+top
+push -99999
+top
+push -99996
+push -99998
+push -99996
+push -99997
+push -99998
+getMin
+push -99997
+pop
+push -99999
+pop
+push -100000
+pop
+push -99999
+top
+pop
+push -99999
+push -99999
+top
+push -99998
+pop
+getMin
+pop
+getMin
+push -99997
+push -99996
+top
+push -99996
+pop
+getMin
+getMin
+getMin
+getMin
+push -100000
+pop
+push -99999
+getMin
+push -100000
+push -99998
+getMin
+top
+pop
+pop
+pop
+pop
+top
+push -99997
+pop
+pop
+top
+push -99997
+push -99998
+push -99998
+top
+getMin
+push -100000
+push -99999
+top
+getMin
+pop
+push -99999
+getMin
+push -99998
+getMin
+push -99997
+push -99998
+push -99996
+push -100000
+pop
+push -99998
+push -99997
+push -99998
+getMin
+push -99998
+getMin
+pop
+push -99999
+getMin
+pop
+pop
+getMin
+top
+top
+push -99996
+push -99998
+push -100000
+push -99996
+getMin
+pop
+push -99997
+push -100000
+top
+top
+getMin
+top
+top
+push -100000
+pop
+push -99998
+pop
+top
+getMin
+push -99999
+pop
+push -99999
+push -99998
+getMin
+pop
+getMin

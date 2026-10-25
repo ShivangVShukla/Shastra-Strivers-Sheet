@@ -1,0 +1,32 @@
+1
+30
+push -100000
+push 100000
+top
+push 100000
+push -100000
+push 100000
+push -100000
+pop
+getMin
+push 100000
+top
+push 100000
+push -100000
+push 100000
+push -100000
+getMin
+push -100000
+pop
+pop
+top
+pop
+push 100000
+pop
+pop
+push -100000
+top
+getMin
+push 100000
+push -100000
+push 100000

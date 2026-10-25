@@ -1,0 +1,38 @@
+1
+36
+push -100000
+push -100000
+pop
+getMin
+top
+push -99998
+top
+push -99997
+push -99999
+push -99996
+push -100000
+top
+pop
+pop
+getMin
+pop
+push -99999
+push -100000
+push -99999
+push -99997
+push -99996
+getMin
+pop
+push -100000
+top
+push -99999
+getMin
+getMin
+getMin
+push -99996
+top
+push -99996
+push -99996
+push -100000
+pop
+pop

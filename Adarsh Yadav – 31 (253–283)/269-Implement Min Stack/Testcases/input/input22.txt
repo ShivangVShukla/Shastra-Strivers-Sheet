@@ -1,0 +1,46 @@
+1
+44
+push -100000
+push 100000
+push -100000
+push 100000
+top
+top
+push -100000
+push 100000
+pop
+push 100000
+top
+top
+pop
+getMin
+push -100000
+pop
+pop
+push 100000
+push -100000
+top
+top
+push 100000
+push -100000
+push 100000
+push -100000
+top
+push -100000
+push 100000
+top
+pop
+pop
+getMin
+getMin
+push 100000
+push -100000
+push 100000
+push -100000
+push 100000
+pop
+push 100000
+push -100000
+top
+push -100000
+push 100000

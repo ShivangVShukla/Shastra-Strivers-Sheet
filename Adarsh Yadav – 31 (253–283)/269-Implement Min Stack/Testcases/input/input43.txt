@@ -1,0 +1,896 @@
+1
+894
+push -100000
+top
+push -100000
+top
+getMin
+push 100000
+push -100000
+getMin
+top
+push 100000
+getMin
+getMin
+getMin
+getMin
+push -100000
+pop
+push -100000
+getMin
+push -100000
+pop
+push -100000
+top
+top
+push 100000
+top
+top
+push -100000
+getMin
+push -100000
+getMin
+push -100000
+pop
+top
+push 100000
+push -100000
+push 100000
+push -100000
+push 100000
+getMin
+top
+push -100000
+getMin
+push -100000
+pop
+top
+pop
+getMin
+getMin
+push -100000
+top
+getMin
+push 100000
+getMin
+push 100000
+push -100000
+top
+top
+pop
+getMin
+push 100000
+push -100000
+top
+getMin
+getMin
+push -100000
+push 100000
+push -100000
+top
+top
+push 100000
+push -100000
+push 100000
+push -100000
+push 100000
+top
+pop
+top
+top
+top
+getMin
+push -100000
+getMin
+pop
+top
+pop
+push 100000
+getMin
+push 100000
+push -100000
+top
+push -100000
+push 100000
+push -100000
+push 100000
+pop
+top
+push -100000
+push 100000
+push -100000
+push 100000
+push -100000
+pop
+push -100000
+push 100000
+getMin
+pop
+push -100000
+pop
+push -100000
+push 100000
+getMin
+push 100000
+pop
+top
+pop
+push 100000
+push -100000
+pop
+push -100000
+pop
+push -100000
+push 100000
+pop
+push 100000
+push -100000
+push 100000
+push -100000
+push 100000
+pop
+pop
+push -100000
+getMin
+getMin
+push 100000
+push -100000
+getMin
+pop
+top
+pop
+push 100000
+push -100000
+getMin
+push -100000
+push 100000
+top
+push 100000
+push -100000
+push 100000
+pop
+push 100000
+top
+push 100000
+push -100000
+push 100000
+pop
+push 100000
+pop
+pop
+getMin
+getMin
+top
+getMin
+getMin
+push 100000
+push -100000
+push 100000
+pop
+pop
+push -100000
+pop
+push -100000
+push 100000
+push -100000
+pop
+getMin
+push 100000
+push -100000
+push 100000
+push -100000
+pop
+push -100000
+getMin
+top
+getMin
+top
+getMin
+push -100000
+getMin
+pop
+pop
+pop
+pop
+push -100000
+pop
+getMin
+push 100000
+pop
+getMin
+pop
+getMin
+pop
+push 100000
+push -100000
+getMin
+push -100000
+getMin
+pop
+push 100000
+getMin
+pop
+getMin
+top
+top
+push 100000
+getMin
+push 100000
+pop
+push 100000
+push -100000
+push 100000
+pop
+push 100000
+pop
+getMin
+getMin
+top
+top
+getMin
+getMin
+getMin
+top
+top
+pop
+push 100000
+push -100000
+getMin
+top
+push 100000
+pop
+getMin
+top
+pop
+pop
+push 100000
+top
+getMin
+top
+pop
+pop
+push 100000
+getMin
+push 100000
+pop
+pop
+push -100000
+top
+push -100000
+getMin
+getMin
+top
+top
+push 100000
+push -100000
+top
+pop
+pop
+pop
+getMin
+push -100000
+top
+push -100000
+pop
+top
+pop
+getMin
+pop
+top
+top
+pop
+push 100000
+top
+pop
+getMin
+pop
+push -100000
+pop
+push -100000
+push 100000
+pop
+push 100000
+pop
+push 100000
+pop
+getMin
+pop
+top
+push -100000
+pop
+pop
+getMin
+top
+push 100000
+push -100000
+top
+push -100000
+getMin
+push -100000
+push 100000
+getMin
+push 100000
+pop
+pop
+getMin
+top
+push -100000
+pop
+top
+push 100000
+top
+getMin
+push -100000
+top
+getMin
+push 100000
+top
+getMin
+getMin
+top
+push -100000
+top
+push -100000
+push 100000
+getMin
+top
+push -100000
+getMin
+pop
+push 100000
+getMin
+push 100000
+push -100000
+getMin
+getMin
+top
+push -100000
+push 100000
+push -100000
+top
+top
+getMin
+pop
+push 100000
+top
+getMin
+push -100000
+push 100000
+push -100000
+push 100000
+pop
+pop
+getMin
+push 100000
+push -100000
+pop
+top
+pop
+top
+top
+push -100000
+top
+push -100000
+push 100000
+push -100000
+pop
+top
+pop
+pop
+push 100000
+push -100000
+push 100000
+push -100000
+push 100000
+top
+push 100000
+pop
+getMin
+push -100000
+push 100000
+top
+push 100000
+getMin
+top
+top
+pop
+push -100000
+push 100000
+top
+getMin
+push -100000
+push 100000
+push -100000
+getMin
+push -100000
+getMin
+push -100000
+top
+top
+push 100000
+pop
+push 100000
+push -100000
+top
+push -100000
+top
+getMin
+getMin
+getMin
+push 100000
+pop
+push 100000
+push -100000
+top
+getMin
+pop
+push -100000
+push 100000
+getMin
+getMin
+getMin
+push 100000
+push -100000
+top
+pop
+push 100000
+push -100000
+getMin
+push -100000
+getMin
+getMin
+pop
+push -100000
+getMin
+pop
+push 100000
+push -100000
+push 100000
+push -100000
+top
+pop
+push 100000
+pop
+pop
+pop
+getMin
+pop
+top
+pop
+top
+push -100000
+push 100000
+push -100000
+push 100000
+pop
+push 100000
+pop
+getMin
+getMin
+push 100000
+top
+top
+pop
+getMin
+pop
+push 100000
+getMin
+push 100000
+getMin
+push 100000
+getMin
+push 100000
+top
+pop
+pop
+push 100000
+pop
+pop
+top
+push 100000
+push -100000
+top
+push -100000
+push 100000
+getMin
+top
+push -100000
+push 100000
+pop
+push 100000
+pop
+push 100000
+top
+getMin
+getMin
+push 100000
+push -100000
+top
+top
+push 100000
+push -100000
+getMin
+top
+push 100000
+getMin
+top
+top
+push 100000
+push -100000
+pop
+top
+push 100000
+pop
+push 100000
+pop
+push 100000
+push -100000
+push 100000
+push -100000
+top
+getMin
+top
+pop
+push 100000
+pop
+push 100000
+push -100000
+getMin
+push -100000
+push 100000
+getMin
+push 100000
+top
+top
+getMin
+getMin
+push -100000
+top
+push -100000
+getMin
+push -100000
+pop
+push -100000
+top
+push -100000
+getMin
+getMin
+getMin
+pop
+top
+push -100000
+push 100000
+push -100000
+pop
+push -100000
+push 100000
+top
+push 100000
+push -100000
+pop
+pop
+pop
+push -100000
+pop
+push -100000
+push 100000
+getMin
+pop
+push -100000
+push 100000
+push -100000
+push 100000
+push -100000
+push 100000
+push -100000
+push 100000
+push -100000
+pop
+getMin
+push 100000
+getMin
+push 100000
+pop
+top
+push -100000
+push 100000
+getMin
+pop
+push -100000
+pop
+push -100000
+pop
+pop
+push 100000
+getMin
+pop
+push -100000
+top
+pop
+pop
+push -100000
+push 100000
+top
+push 100000
+push -100000
+pop
+top
+getMin
+push -100000
+push 100000
+top
+pop
+top
+pop
+pop
+top
+pop
+push 100000
+getMin
+top
+push -100000
+top
+pop
+push 100000
+push -100000
+push 100000
+getMin
+getMin
+top
+getMin
+top
+pop
+pop
+getMin
+top
+pop
+pop
+pop
+push -100000
+pop
+pop
+pop
+top
+getMin
+push -100000
+pop
+push -100000
+push 100000
+push -100000
+push 100000
+top
+push 100000
+pop
+push 100000
+push -100000
+push 100000
+push -100000
+push 100000
+push -100000
+push 100000
+pop
+push 100000
+pop
+pop
+getMin
+pop
+pop
+pop
+push -100000
+push 100000
+getMin
+top
+push -100000
+pop
+getMin
+top
+push -100000
+getMin
+getMin
+top
+getMin
+push 100000
+push -100000
+getMin
+pop
+top
+getMin
+top
+top
+push 100000
+push -100000
+getMin
+top
+push 100000
+top
+push 100000
+push -100000
+getMin
+push -100000
+pop
+top
+pop
+pop
+push 100000
+top
+top
+push -100000
+push 100000
+pop
+pop
+pop
+push 100000
+pop
+pop
+push -100000
+push 100000
+push -100000
+pop
+push -100000
+push 100000
+push -100000
+top
+push -100000
+pop
+top
+getMin
+push -100000
+getMin
+push -100000
+top
+getMin
+pop
+push -100000
+pop
+push -100000
+push 100000
+push -100000
+push 100000
+top
+push 100000
+push -100000
+push 100000
+top
+top
+push -100000
+getMin
+push -100000
+getMin
+push -100000
+push 100000
+push -100000
+getMin
+push -100000
+pop
+getMin
+getMin
+getMin
+top
+pop
+pop
+getMin
+push 100000
+pop
+getMin
+getMin
+top
+push -100000
+push 100000
+top
+getMin
+getMin
+top
+push -100000
+push 100000
+pop
+push 100000
+top
+top
+push -100000
+pop
+pop
+push 100000
+push -100000
+push 100000
+getMin
+push 100000
+top
+getMin
+push -100000
+push 100000
+getMin
+getMin
+push -100000
+push 100000
+top
+push 100000
+push -100000
+getMin
+top
+push 100000
+getMin
+getMin
+push -100000
+getMin
+getMin
+top
+push -100000
+top
+push -100000
+pop
+push -100000
+push 100000
+push -100000
+push 100000
+pop
+getMin
+pop
+top
+push -100000
+getMin
+push -100000
+top
+top
+push 100000
+pop
+push 100000
+push -100000
+top
+push -100000
+getMin
+top
+push 100000
+top
+push 100000
+getMin
+push 100000
+pop
+push 100000
+push -100000
+top
+pop
+push 100000
+push -100000
+top
+pop
+getMin
+push -100000
+pop
+push -100000
+pop
+push -100000
+pop
+push -100000
+getMin
+top
+top
+top
+push 100000
+pop
+push 100000
+getMin
+push 100000
+push -100000
+push 100000
+top
+push 100000
+push -100000
+getMin
+getMin
+top
+getMin
+push 100000
+getMin
+getMin
+getMin
+top
+top
+pop
+push -100000
+top
+getMin
+getMin
+getMin
+top
+push -100000
+push 100000

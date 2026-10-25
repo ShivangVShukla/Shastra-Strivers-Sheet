@@ -1,0 +1,292 @@
+1
+290
+push 100000
+top
+push 99999
+pop
+push 99999
+getMin
+pop
+push 99999
+push 99998
+pop
+pop
+push 99999
+pop
+top
+getMin
+top
+pop
+push 100000
+push 99999
+push 99998
+pop
+push 99998
+getMin
+getMin
+push 99997
+push 99996
+push 99995
+push 99994
+pop
+getMin
+getMin
+push 99994
+getMin
+getMin
+push 99993
+push 99992
+push 99991
+push 99990
+getMin
+push 99989
+top
+push 99988
+pop
+getMin
+getMin
+getMin
+top
+pop
+push 99989
+push 99988
+getMin
+pop
+push 99988
+getMin
+push 99987
+getMin
+push 99986
+push 99985
+push 99984
+push 99983
+push 99982
+top
+getMin
+pop
+pop
+push 99983
+getMin
+push 99982
+top
+push 99981
+pop
+getMin
+push 99981
+getMin
+push 99980
+push 99979
+pop
+pop
+push 99980
+push 99979
+pop
+top
+pop
+push 99980
+pop
+push 99980
+push 99979
+push 99978
+getMin
+push 99977
+push 99976
+getMin
+push 99975
+push 99974
+push 99973
+push 99972
+push 99971
+push 99970
+push 99969
+push 99968
+push 99967
+push 99966
+push 99965
+push 99964
+getMin
+push 99963
+top
+push 99962
+top
+push 99961
+top
+top
+push 99960
+push 99959
+push 99958
+push 99957
+pop
+pop
+push 99958
+push 99957
+pop
+push 99957
+top
+getMin
+push 99956
+push 99955
+push 99954
+push 99953
+push 99952
+push 99951
+top
+getMin
+getMin
+push 99950
+push 99949
+top
+push 99948
+push 99947
+push 99946
+push 99945
+getMin
+getMin
+getMin
+top
+push 99944
+top
+top
+top
+getMin
+push 99943
+pop
+push 99943
+push 99942
+push 99941
+top
+push 99940
+getMin
+top
+getMin
+pop
+getMin
+push 99940
+push 99939
+pop
+push 99939
+push 99938
+push 99937
+getMin
+pop
+push 99937
+top
+push 99936
+push 99935
+pop
+pop
+getMin
+getMin
+push 99936
+push 99935
+getMin
+getMin
+push 99934
+top
+push 99933
+push 99932
+getMin
+push 99931
+push 99930
+pop
+push 99930
+push 99929
+getMin
+top
+top
+top
+top
+push 99928
+push 99927
+getMin
+top
+push 99926
+push 99925
+push 99924
+push 99923
+top
+pop
+getMin
+pop
+push 99924
+pop
+pop
+push 99925
+push 99924
+top
+push 99923
+top
+push 99922
+push 99921
+push 99920
+push 99919
+push 99918
+top
+push 99917
+getMin
+getMin
+getMin
+pop
+pop
+getMin
+push 99918
+getMin
+push 99917
+push 99916
+pop
+push 99916
+top
+getMin
+pop
+getMin
+getMin
+getMin
+pop
+pop
+pop
+push 99919
+getMin
+push 99918
+top
+top
+push 99917
+getMin
+push 99916
+top
+pop
+top
+push 99916
+push 99915
+getMin
+top
+top
+getMin
+push 99914
+pop
+push 99914
+getMin
+push 99913
+getMin
+getMin
+push 99912
+pop
+getMin
+pop
+push 99913
+push 99912
+getMin
+push 99911
+push 99910
+push 99909
+push 99908
+top
+push 99907
+push 99906
+getMin
+push 99905
+pop
+pop
+top
+getMin
+push 99906
+push 99905
