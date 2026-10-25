@@ -1,0 +1,1 @@
+872 -504 424 807 -799 237 50 null -907 -584 719 -188 874 null null 196 null null null null null null -46 588 130 null null null null -46 92 -342 769 -264 328 914 null null null -547 null null null null -967
