@@ -1,0 +1,1 @@
+417 217 null null -314 352 null null -461 316 null null 175 -423 null null -72 363 null null -447 816 null null 66 140 null null -156 -805 null null 408 -313 null null 393 758 null null -950 -311 null null -501 -790 null null 368 -842 null null -396 246 null null -805 -46 null null -377 -842 null null -38 -729 null null 556 326

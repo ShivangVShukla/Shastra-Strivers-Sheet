@@ -1,0 +1,2 @@
+inorder = [10000]
+postorder = [10000]

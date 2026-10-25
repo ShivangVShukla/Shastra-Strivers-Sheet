@@ -1,0 +1,2 @@
+root = [3, 1, 5, null, null, 4]
+val = 6

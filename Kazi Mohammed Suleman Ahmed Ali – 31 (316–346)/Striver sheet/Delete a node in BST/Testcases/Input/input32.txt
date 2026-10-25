@@ -1,0 +1,2 @@
+root = [6, 5, null, 4, null, 3, null, 2, null, 1]
+key = 3

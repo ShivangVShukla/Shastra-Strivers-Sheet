@@ -1,0 +1,1 @@
+-41 48 null null 73 79 null null -79 -1 null null 72 8 null null 64 -13 null null -9 76 null null -50 -8 null null 65 -12 null null 14 -24 null null 80 24

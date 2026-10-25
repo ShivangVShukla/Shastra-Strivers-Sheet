@@ -1,0 +1,2 @@
+root = [2, null, 4, null, 6, null, 8, null, 10, null, 12, null, 14, null, 16, null, 18, null, 20]
+val = 11

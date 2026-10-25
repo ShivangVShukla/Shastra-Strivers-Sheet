@@ -1,0 +1,1 @@
+-891 759 null null 304 104 null null -310 764 null null -564 746 null null 523 -670 null null -121 294 null null -136 25 null null -14 -586 null null -898 527

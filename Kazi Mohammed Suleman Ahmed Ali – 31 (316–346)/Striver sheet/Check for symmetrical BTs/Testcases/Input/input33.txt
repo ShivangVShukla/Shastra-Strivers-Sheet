@@ -1,0 +1,1 @@
+-87 -76 -76 -4 97 97 -4 43 12 96 -44 -44 96 12 43 null -39 null 67 -50 57 null -37 -37 null 57 -50 67 null -39 null null 10 null null null 81 null -61 null null null null -61 null 81 null null null 10 null null null 39 79 14 70 70 14 79 39

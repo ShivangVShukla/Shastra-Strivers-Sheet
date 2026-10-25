@@ -1,0 +1,1 @@
+10 39 25 null null -70 53 null null 63 80 null null -20 -11 null null -38 -20 null null -22 45 null null -12 61 null null -43 -54 null null 64 -53 null null -30 -35 null null -12 -1 null null -22 25 null null 34 63 null null -74 -52 null null 82 -20

@@ -1,0 +1,2 @@
+inorder = [0]
+postorder = [0]
