@@ -1,0 +1,14 @@
+13
+STARTS_WITH apple
+STARTS_WITH care
+SEARCH apt
+SEARCH bad
+INSERT bat
+STARTS_WITH bat
+SEARCH dog
+INSERT banana
+COUNT_PREFIX apt
+COUNT_PREFIX apt
+INSERT apple
+INSERT banana
+STARTS_WITH apply

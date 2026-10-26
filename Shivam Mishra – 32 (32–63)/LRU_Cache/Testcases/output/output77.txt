@@ -1,0 +1,1 @@
+-1 -1 null null -1 null null null null null -1 null -1 null -1 null null -1 null -1 22270 null null null -1 -1 null null -1 -1 -1 null null -1 -1 null null -1 -1 null null 58876 null -1 null null -1 -1 -1 34422 null -1 null null -1 null 48535 null null null -1 -1 null 71630 null -1 null null

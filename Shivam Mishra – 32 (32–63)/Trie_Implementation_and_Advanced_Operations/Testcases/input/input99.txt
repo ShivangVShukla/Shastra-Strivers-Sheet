@@ -1,0 +1,16 @@
+15
+COUNT_PREFIX apt
+STARTS_WITH apply
+INSERT app
+SEARCH apply
+SEARCH bat
+INSERT bat
+SEARCH car
+INSERT apple
+COUNT_PREFIX bad
+COUNT_PREFIX appl
+INSERT bat
+STARTS_WITH apple
+STARTS_WITH bad
+SEARCH apply
+INSERT banana

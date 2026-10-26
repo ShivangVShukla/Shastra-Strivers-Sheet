@@ -1,0 +1,1 @@
+257 343 534 368 null 352 568 null 400 null null null null -93 606 null 142 null null 600 -38 202 null null 201 null null null 684

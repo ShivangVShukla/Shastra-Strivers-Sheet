@@ -60,29 +60,42 @@ public class gen {
         testCases.add(makeCase(
                 "50 30 70 20 40 60 80 10 25 35 45 55 65 75 90", 4));
 
-        // Test case 7: k is equal to the number of nodes
+        // Test case 7: k equals the number of nodes
         testCases.add(makeCase("8 4 12 2 6 10 14", 7));
 
         // Test case 8: Random BST with 99 nodes
         testCases.add(randomBST(99, 1, 100000, 25));
 
+        // Test cases 9 to 101: 93 additional random BSTs
+        Random random = new Random();
+
+        for (int i = 9; i <= 101; i++) {
+
+            // Generate between 1 and 99 distinct nodes.
+            int n = random.nextInt(99) + 1;
+
+            // Choose a valid k for this BST.
+            int k = random.nextInt(n) + 1;
+
+            testCases.add(randomBST(n, 1, 100000, k));
+        }
+
+        // Generate input and output files
         for (int i = 0; i < testCases.size(); i++) {
 
             TestCase tc = testCases.get(i);
 
             Path inputPath = inputDir.resolve(
-                    String.format("input%02d.txt", i));
+                    String.format("input%02d.txt", i + 1));
 
             Path outputPath = outputDir.resolve(
-                    String.format("output%02d.txt", i));
+                    String.format("output%02d.txt", i + 1));
 
             // Input format: level-order BST followed by k
             List<String> inputTokens = new ArrayList<>(tc.nodes);
             inputTokens.add(String.valueOf(tc.k));
 
             String input = String.join(" ", inputTokens);
-
-            // Output format: kth smallest followed by kth largest
             String output = String.join(" ", tc.expected);
 
             Files.writeString(
@@ -202,7 +215,7 @@ public class gen {
 
         Random random = new Random();
 
-        // Generate distinct values so the BST has no duplicate keys.
+        // Generate n distinct values.
         List<Integer> values = new ArrayList<>();
 
         for (int value = minValue; value <= maxValue; value++) {

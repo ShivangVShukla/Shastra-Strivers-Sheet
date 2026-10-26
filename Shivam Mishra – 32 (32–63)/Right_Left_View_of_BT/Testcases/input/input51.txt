@@ -1,0 +1,1 @@
+-52 -837 -422 545 424 -919 -62 null null -776 399 530 null -154 361 -47 538 null null null null -435 -142 null null -711 531 null 919 5 488 -482 184 -480 711 -426 null null null null null -489 923 -818 -371 null null null null null null 265 null null null null null null null 377

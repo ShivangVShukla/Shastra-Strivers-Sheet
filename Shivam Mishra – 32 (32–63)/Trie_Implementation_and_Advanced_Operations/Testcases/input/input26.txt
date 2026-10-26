@@ -1,0 +1,18 @@
+17
+SEARCH apple
+INSERT apply
+COUNT_PREFIX dog
+STARTS_WITH banana
+SEARCH bad
+INSERT bat
+INSERT cat
+INSERT car
+STARTS_WITH apply
+INSERT banana
+STARTS_WITH bath
+STARTS_WITH app
+COUNT_PREFIX banana
+INSERT care
+SEARCH banana
+STARTS_WITH bad
+SEARCH app

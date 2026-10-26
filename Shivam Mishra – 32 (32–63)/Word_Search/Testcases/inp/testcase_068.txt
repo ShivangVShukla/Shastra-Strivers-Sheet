@@ -1,0 +1,8 @@
+6 2
+CB
+CD
+DD
+AB
+CD
+DB
+D

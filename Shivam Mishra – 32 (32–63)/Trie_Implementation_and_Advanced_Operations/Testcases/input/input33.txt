@@ -1,0 +1,15 @@
+14
+SEARCH banana
+STARTS_WITH car
+STARTS_WITH apple
+INSERT apply
+COUNT_PREFIX dog
+INSERT bath
+INSERT bath
+SEARCH dog
+SEARCH bath
+STARTS_WITH banana
+STARTS_WITH apple
+COUNT_PREFIX ba
+INSERT banana
+SEARCH apply

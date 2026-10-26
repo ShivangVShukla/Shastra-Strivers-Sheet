@@ -1,0 +1,17 @@
+16
+INSERT bat
+INSERT dog
+SEARCH apple
+SEARCH banana
+INSERT bad
+INSERT bath
+SEARCH banana
+SEARCH cat
+COUNT_PREFIX bat
+INSERT banana
+INSERT bad
+COUNT_PREFIX c
+SEARCH apply
+STARTS_WITH cat
+INSERT bath
+STARTS_WITH bat

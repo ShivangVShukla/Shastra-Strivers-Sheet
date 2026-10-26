@@ -1,0 +1,1 @@
+82 62 -63 -14 -45 null null null null -95 -74 -15 100 38 38 -66 null 7 87 -46 29 0 -43 null null null null 52 -29 48 null 66 null 39 33 67 null null null null null -90 -9 null null 90 null null null null null -18 null null null -50

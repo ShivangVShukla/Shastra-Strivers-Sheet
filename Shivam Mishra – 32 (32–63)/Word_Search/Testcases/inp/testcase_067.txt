@@ -1,0 +1,8 @@
+6 2
+CA
+CC
+AC
+DC
+BB
+DA
+DABACBAB

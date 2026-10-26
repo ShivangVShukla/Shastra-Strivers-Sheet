@@ -1,0 +1,1 @@
+670 497 407 -911 -933 407 209 979 -740 875 326 -115 -808 300 -734 null null 341 285 null 489 null -203 null null -232 670 490 -85 null null null null null null 188 163 123 -26 null null null 352 null null null null null null null null -572 340

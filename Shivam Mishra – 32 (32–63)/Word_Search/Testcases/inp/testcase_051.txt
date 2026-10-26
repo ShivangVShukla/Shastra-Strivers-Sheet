@@ -1,0 +1,8 @@
+6 2
+BD
+CC
+CA
+BB
+DD
+DD
+CDBCBAB

@@ -1,0 +1,6 @@
+4 2
+BA
+BB
+BC
+DC
+ABC
