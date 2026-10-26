@@ -1,0 +1,1 @@
+[20, 18, null, 16, null, 14, null, 12, null, 10, null, 8, 11, 6, null, null, null, 4, null, 2]

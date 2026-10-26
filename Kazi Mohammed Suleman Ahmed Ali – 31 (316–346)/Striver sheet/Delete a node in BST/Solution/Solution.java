@@ -1,0 +1,197 @@
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Queue;
+
+class TreeNode {
+    int data;
+    int val;
+    TreeNode left;
+    TreeNode right;
+
+    TreeNode(int val) {
+        this.data = val;
+        this.val = val;
+        this.left = null;
+        this.right = null;
+    }
+}
+
+public class Solution {
+
+    public TreeNode deleteNode(TreeNode root, int key) {
+        if (root == null) {
+            return null;
+        }
+
+        if (root.val == key) {
+            return helper(root);
+        }
+
+        TreeNode curr = root;
+        while (curr != null) {
+            if (key < curr.val) {
+                if (curr.left != null && curr.left.val == key) {
+                    curr.left = helper(curr.left);
+                    break;
+                } else {
+                    curr = curr.left;
+                }
+            } else {
+                if (curr.right != null && curr.right.val == key) {
+                    curr.right = helper(curr.right);
+                    break;
+                } else {
+                    curr = curr.right;
+                }
+            }
+        }
+
+        return root;
+    }
+
+    private TreeNode helper(TreeNode node) {
+        if (node.left == null) {
+            return node.right;
+        } else if (node.right == null) {
+            return node.left;
+        }
+
+        TreeNode rightChild = node.right;
+        TreeNode leftmost = findLastLeft(rightChild);
+        leftmost.left = node.left;
+        return rightChild;
+    }
+
+    private TreeNode findLastLeft(TreeNode node) {
+        while (node.left != null) {
+            node = node.left;
+        }
+        return node;
+    }
+
+    public static TreeNode buildTree(String input) {
+        if (input == null) return null;
+        String trimmed = input.trim();
+        if (trimmed.startsWith("root")) {
+            int eqIdx = trimmed.indexOf('=');
+            if (eqIdx != -1) {
+                trimmed = trimmed.substring(eqIdx + 1).trim();
+            }
+        }
+        if (trimmed.startsWith("[") && trimmed.endsWith("]")) {
+            trimmed = trimmed.substring(1, trimmed.length() - 1).trim();
+        }
+        if (trimmed.isEmpty()) return null;
+
+        String[] parts = trimmed.split("[,\\s]+");
+        List<String> tokens = new ArrayList<>();
+        for (String p : parts) {
+            if (!p.isEmpty()) {
+                tokens.add(p);
+            }
+        }
+        if (tokens.isEmpty() || tokens.get(0).equalsIgnoreCase("null")) {
+            return null;
+        }
+
+        TreeNode root = new TreeNode(Integer.parseInt(tokens.get(0)));
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.offer(root);
+        int idx = 1;
+
+        while (!queue.isEmpty() && idx < tokens.size()) {
+            TreeNode current = queue.poll();
+
+            // Left child
+            if (idx < tokens.size()) {
+                String leftToken = tokens.get(idx++);
+                if (!leftToken.equalsIgnoreCase("null")) {
+                    current.left = new TreeNode(Integer.parseInt(leftToken));
+                    queue.offer(current.left);
+                }
+            }
+
+            // Right child
+            if (idx < tokens.size()) {
+                String rightToken = tokens.get(idx++);
+                if (!rightToken.equalsIgnoreCase("null")) {
+                    current.right = new TreeNode(Integer.parseInt(rightToken));
+                    queue.offer(current.right);
+                }
+            }
+        }
+
+        return root;
+    }
+
+    public static String serializeTree(TreeNode root) {
+        if (root == null) return "[]";
+
+        List<String> values = new ArrayList<>();
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.offer(root);
+
+        while (!queue.isEmpty()) {
+            TreeNode node = queue.poll();
+            if (node == null) {
+                values.add("null");
+            } else {
+                values.add(String.valueOf(node.val));
+                queue.offer(node.left);
+                queue.offer(node.right);
+            }
+        }
+
+        // Trim trailing "null"s
+        int lastNonNull = values.size() - 1;
+        while (lastNonNull >= 0 && values.get(lastNonNull).equals("null")) {
+            lastNonNull--;
+        }
+
+        StringBuilder sb = new StringBuilder();
+        sb.append("[");
+        for (int i = 0; i <= lastNonNull; i++) {
+            sb.append(values.get(i));
+            if (i < lastNonNull) {
+                sb.append(", ");
+            }
+        }
+        sb.append("]");
+        return sb.toString();
+    }
+
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        String line1 = br.readLine();
+        if (line1 == null) return;
+
+        String line2 = br.readLine();
+        if (line2 == null) {
+            line2 = "";
+        }
+
+        String keyStr = line2.trim();
+        if (keyStr.startsWith("key") || keyStr.startsWith("val")) {
+            int eqIdx = keyStr.indexOf('=');
+            if (eqIdx != -1) {
+                keyStr = keyStr.substring(eqIdx + 1).trim();
+            }
+        }
+
+        int key = 0;
+        if (!keyStr.isEmpty()) {
+            key = Integer.parseInt(keyStr);
+        }
+
+        TreeNode root = buildTree(line1);
+
+        Solution sol = new Solution();
+        TreeNode updatedRoot = sol.deleteNode(root, key);
+
+        System.out.println(serializeTree(updatedRoot));
+    }
+}
