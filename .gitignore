@@ -1,2 +1,6 @@
 ﻿.idea/
 *.iml
+*.class
+*.jar
+target/
+.idea/
