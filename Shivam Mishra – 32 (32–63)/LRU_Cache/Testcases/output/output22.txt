@@ -1,0 +1,1 @@
+-1 -1 null null null null null -1 17344 null null null null -1 null -1 -1 null null -1 null null -1 null -1 -1 -1 -1 null -1 80197 null null -1 -1 57874 null 56874 null null null null 83955 null

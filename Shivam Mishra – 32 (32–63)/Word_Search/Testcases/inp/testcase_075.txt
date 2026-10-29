@@ -1,0 +1,4 @@
+2 6
+BAADBC
+BBBBDC
+DDB

@@ -1,0 +1,11 @@
+10
+INSERT apple
+STARTS_WITH apt
+SEARCH cat
+STARTS_WITH apt
+COUNT_PREFIX apt
+INSERT bath
+INSERT bath
+SEARCH bat
+SEARCH cat
+SEARCH cat

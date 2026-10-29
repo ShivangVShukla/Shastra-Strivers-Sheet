@@ -1,0 +1,1 @@
+-392 947 804 -850 280 null null 288 230 54 153 null -174 -36 124 null null -329 null null null 252 -778 -744 -703 null null null null null null -185 null null 674

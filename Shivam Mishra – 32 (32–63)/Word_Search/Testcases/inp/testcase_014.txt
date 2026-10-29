@@ -1,0 +1,8 @@
+6 3
+BCD
+CDD
+CBA
+DAA
+DCC
+CBB
+DCBC

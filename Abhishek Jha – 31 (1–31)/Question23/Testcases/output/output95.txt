@@ -1,0 +1,5 @@
+E
+DE
+CDE
+BCDE
+ABCDE

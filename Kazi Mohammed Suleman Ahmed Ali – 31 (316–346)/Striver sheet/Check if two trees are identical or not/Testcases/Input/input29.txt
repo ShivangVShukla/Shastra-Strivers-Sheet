@@ -1,0 +1,2 @@
+4505 -5382 null null -1024 -8163 null null -9099 -3098 null null 5833 6934 null null 7206 -2894 null null 1565 -6147 null null -1532 630 null null -2060 1189 null null -8571 5402 null null 5940 9841
+4505 -5382 null null -1024 -8163 null null -9099 -3098 null null 5833 6934 null null 7206 -2894 null null 1565 -6147 null null -1532 630 null null -2060 1189 null null -8571 5402 null null 5940 9841

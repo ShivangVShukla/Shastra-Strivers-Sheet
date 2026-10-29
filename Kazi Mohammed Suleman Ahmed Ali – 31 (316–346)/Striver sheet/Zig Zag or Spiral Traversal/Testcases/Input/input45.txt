@@ -1,0 +1,1 @@
+-825 347 null null 482 464 null null 801 -795 null null -348 -38 null null 133 655 null null -216 -742 null null 927 -497 null null -298 -544 null null 815 975 null null -877 -3 null null 455 990 null null 439 108 null null 532 204 null null 325 121 null null 791 -691 null null -583 -308 null null 719 -149 null null 556 581 null null -84 491 null null 72 122 null null -995 -949

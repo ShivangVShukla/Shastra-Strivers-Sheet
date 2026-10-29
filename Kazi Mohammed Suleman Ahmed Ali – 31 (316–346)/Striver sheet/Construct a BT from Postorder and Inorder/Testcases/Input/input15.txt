@@ -1,0 +1,2 @@
+inorder = [1, 3, 2]
+postorder = [3, 2, 1]

@@ -1,0 +1,1 @@
+15 12 3 null 12 -9 12 2 10 -10 1 10 2 null null 4 6 0 -10 null 1 5 5 null null 4 null 5 1 -4 4 -5 -5 null null -3 8 2 3 null null null 5 1 0 null null null null null null -5 null null -3 2 6 2 null 1 2 null null 1 null null null null null null null 2 null 4 2 null 2 1 0 null null null null null null null null null null null null 0 1 null null 0

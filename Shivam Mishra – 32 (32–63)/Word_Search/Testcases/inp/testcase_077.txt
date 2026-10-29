@@ -1,0 +1,7 @@
+5 2
+AC
+AA
+BA
+AC
+DC
+BDBDCBBACB

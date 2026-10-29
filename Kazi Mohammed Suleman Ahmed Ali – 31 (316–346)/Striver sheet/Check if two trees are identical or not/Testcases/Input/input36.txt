@@ -1,0 +1,2 @@
+9842 -4690 -5518 null -2925 950 -4440 8574 -5056 -3942 9538 6950 1506 -2899 null 7873 459 -7633 7691 9363 null 4452 null null 327 null null null null 8789 null null null null null null null 6161 null null null null null 4997 null -8909 null 6937
+9842 null -5518 950 -4440 -3942 9538 6950 1506 -7633 7691 9363 null 4452 null null 327 null null null null null null 6161 null null null 4997 null -8909 null 6937

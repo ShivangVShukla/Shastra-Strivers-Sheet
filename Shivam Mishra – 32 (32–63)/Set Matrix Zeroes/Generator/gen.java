@@ -82,8 +82,90 @@ public class gen {
         // Test case 10: Maximum-size matrix.
         testCases.add(generateLargeTestCase());
 
+        Random random = new Random(20261024L);
+
+        // Test cases 11 to 101: Generate 91 additional cases.
+        for (int caseNo = 11; caseNo <= 101; caseNo++) {
+
+            int type = (caseNo - 11) % 7;
+            int rows;
+            int cols;
+
+            switch (type) {
+
+                case 0:
+                    // Small square matrix.
+                    rows = random.nextInt(8) + 1;
+                    cols = rows;
+                    testCases.add(
+                        generateMatrix(random, rows, cols, 0.20)
+                    );
+                    break;
+
+                case 1:
+                    // Rectangular matrix.
+                    rows = random.nextInt(10) + 1;
+                    cols = random.nextInt(15) + 1;
+                    testCases.add(
+                        generateMatrix(random, rows, cols, 0.15)
+                    );
+                    break;
+
+                case 2:
+                    // Matrix without any zeroes.
+                    rows = random.nextInt(10) + 1;
+                    cols = random.nextInt(10) + 1;
+                    testCases.add(
+                        generateNoZeroMatrix(random, rows, cols)
+                    );
+                    break;
+
+                case 3:
+                    // Matrix containing only zeroes.
+                    rows = random.nextInt(10) + 1;
+                    cols = random.nextInt(10) + 1;
+                    testCases.add(new int[rows][cols]);
+                    break;
+
+                case 4:
+                    // Single row or single column.
+                    if (random.nextBoolean()) {
+                        rows = 1;
+                        cols = random.nextInt(100) + 1;
+                    } else {
+                        rows = random.nextInt(100) + 1;
+                        cols = 1;
+                    }
+
+                    testCases.add(
+                        generateMatrix(random, rows, cols, 0.20)
+                    );
+                    break;
+
+                case 5:
+                    // Medium matrix with negative and positive values.
+                    rows = random.nextInt(40) + 10;
+                    cols = random.nextInt(40) + 10;
+                    testCases.add(
+                        generateMatrix(random, rows, cols, 0.05)
+                    );
+                    break;
+
+                default:
+                    // Large rectangular matrix.
+                    rows = random.nextInt(101) + 100;
+                    cols = random.nextInt(101) + 100;
+                    testCases.add(
+                        generateMatrix(random, rows, cols, 0.01)
+                    );
+                    break;
+            }
+        }
+
+        // Generate input and expected output files.
         for (int i = 0; i < testCases.size(); i++) {
-            String suffix = String.format("%02d", i);
+
+            String suffix = String.format("%02d", i + 1);
 
             File inputFile = new File(
                 inputDir, "input" + suffix + ".txt"
@@ -107,6 +189,14 @@ public class gen {
             "Generated " + testCases.size()
             + " test cases successfully."
         );
+
+        System.out.println(
+            "Input directory: " + inputDir.getAbsolutePath()
+        );
+
+        System.out.println(
+            "Output directory: " + outputDir.getAbsolutePath()
+        );
     }
 
     private static int[][] generateLargeTestCase() {
@@ -126,6 +216,52 @@ public class gen {
         matrix[rows - 1][0] = 0;
         matrix[rows / 2][cols / 2] = 0;
         matrix[rows - 2][cols - 3] = 0;
+
+        return matrix;
+    }
+
+    private static int[][] generateMatrix(
+            Random random, int rows, int cols, double zeroProbability) {
+
+        int[][] matrix = new int[rows][cols];
+
+        for (int i = 0; i < rows; i++) {
+            for (int j = 0; j < cols; j++) {
+
+                if (random.nextDouble() < zeroProbability) {
+                    matrix[i][j] = 0;
+                } else {
+                    int value;
+
+                    do {
+                        value = random.nextInt(2001) - 1000;
+                    } while (value == 0);
+
+                    matrix[i][j] = value;
+                }
+            }
+        }
+
+        return matrix;
+    }
+
+    private static int[][] generateNoZeroMatrix(
+            Random random, int rows, int cols) {
+
+        int[][] matrix = new int[rows][cols];
+
+        for (int i = 0; i < rows; i++) {
+            for (int j = 0; j < cols; j++) {
+
+                int value = random.nextInt(2000) - 1000;
+
+                if (value >= 0) {
+                    value++;
+                }
+
+                matrix[i][j] = value;
+            }
+        }
 
         return matrix;
     }
@@ -201,7 +337,9 @@ public class gen {
 
             for (int[] row : matrix) {
                 for (int j = 0; j < row.length; j++) {
-                    if (j > 0) writer.print(' ');
+                    if (j > 0) {
+                        writer.print(' ');
+                    }
                     writer.print(row[j]);
                 }
                 writer.println();
@@ -217,7 +355,9 @@ public class gen {
 
             for (int[] row : matrix) {
                 for (int j = 0; j < row.length; j++) {
-                    if (j > 0) writer.print(' ');
+                    if (j > 0) {
+                        writer.print(' ');
+                    }
                     writer.print(row[j]);
                 }
                 writer.println();

@@ -1,0 +1,15 @@
+14
+SEARCH apt
+SEARCH dog
+SEARCH apply
+SEARCH dog
+INSERT care
+INSERT car
+STARTS_WITH bat
+SEARCH bath
+SEARCH dog
+SEARCH apply
+STARTS_WITH bad
+INSERT bad
+SEARCH car
+STARTS_WITH apt

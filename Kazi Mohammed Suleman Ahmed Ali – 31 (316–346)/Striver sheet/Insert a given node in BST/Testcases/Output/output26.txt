@@ -1,0 +1,1 @@
+[-50, -100, -20, -150, -80, -30, -10, null, null, null, null, null, null, null, 5]

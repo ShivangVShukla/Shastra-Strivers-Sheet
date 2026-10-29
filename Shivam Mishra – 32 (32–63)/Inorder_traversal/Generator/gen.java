@@ -39,10 +39,10 @@ public class gen {
 
         List<TestCase> testCases = new ArrayList<>();
 
-        // Test case 1: 5 actual nodes
+        // Test case 1: Tree with 5 actual nodes
         testCases.add(makeCase("1 4 null 4 2"));
 
-        // Test case 2: 3 actual nodes
+        // Test case 2: Tree with 3 actual nodes
         testCases.add(makeCase("1 null 2 3"));
 
         // Test case 3: Single node
@@ -51,25 +51,31 @@ public class gen {
         // Test case 4: Complete binary tree with 7 nodes
         testCases.add(makeCase("1 2 3 4 5 6 7"));
 
-        // Test case 5: Random tree with 99 actual nodes
-        testCases.add(randomTree(99, 1, 100000));
+        // Test cases 5 to 101: Random binary trees
+        Random random = new Random();
 
+        for (int i = 5; i <= 101; i++) {
+
+            // Generate an odd number of actual nodes between 1 and 99.
+            int n = random.nextInt(50) * 2 + 1;
+
+            testCases.add(randomTree(n, 1, 100000));
+        }
+
+        // Generate input and expected output files
         for (int i = 0; i < testCases.size(); i++) {
 
             TestCase tc = testCases.get(i);
 
             Path inputPath = inputDir.resolve(
-                    String.format("input%02d.txt", i)
+                    String.format("input%02d.txt", i + 1)
             );
 
             Path outputPath = outputDir.resolve(
-                    String.format("output%02d.txt", i)
+                    String.format("output%02d.txt", i + 1)
             );
 
-            // Input: 1 4 null 4 2
             String input = String.join(" ", tc.nodes);
-
-            // Output: 4 4 2 1
             String output = String.join(" ", tc.expected);
 
             Files.writeString(
@@ -175,22 +181,15 @@ public class gen {
     static TestCase randomTree(
             int n, int minValue, int maxValue) {
 
-        if (n <= 0 || n % 2 == 0) {
-            throw new IllegalArgumentException(
-                    "The number of actual nodes must be a positive odd number."
-            );
-        }
-
-        Random random = new Random();
-
         TreeNode root = new TreeNode(
-                random.nextInt(maxValue - minValue + 1) + minValue
+                randomValue(minValue, maxValue)
         );
 
         List<TreeNode> available = new ArrayList<>();
         available.add(root);
 
         int count = 1;
+        Random random = new Random();
 
         while (count < n) {
 
@@ -206,7 +205,7 @@ public class gen {
             }
 
             TreeNode child = new TreeNode(
-                    random.nextInt(maxValue - minValue + 1) + minValue
+                    randomValue(minValue, maxValue)
             );
 
             if (useLeft) {
@@ -230,6 +229,11 @@ public class gen {
         inorder(root, inorderResult);
 
         return new TestCase(serialized, inorderResult);
+    }
+
+    static int randomValue(int minValue, int maxValue) {
+        return new Random().nextInt(maxValue - minValue + 1)
+                + minValue;
     }
 
     static void serialize(
@@ -257,7 +261,7 @@ public class gen {
             queue.offer(current.right);
         }
 
-        // Remove unnecessary trailing null values.
+        // Remove unnecessary trailing null values
         while (!result.isEmpty()
                 && result.get(result.size() - 1).equals("null")) {
 

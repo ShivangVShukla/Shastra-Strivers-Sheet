@@ -1,0 +1,1 @@
+262 -559 308 600 -193 -414 -48 824 null -742 -961 768 -912 -381 911 null null null null null null null null -131 null 435 -560 null 891 -915 null 949 418 null null -159 -536 null null null -547 null null 545 null 248 985 null null null -896 null null -263 -567
